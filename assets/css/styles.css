@@ -84,9 +84,36 @@ a.active {
   text-underline-offset: 3.5pt;
 }
 
+blockquote {
+  border-left: 0.3em solid var(--light-text-color);
+  padding-left: 1em;
+  margin-left: 0;
+}
+
+@media (prefers-color-scheme: dark) {
+  blockquote {
+    border-left-color:var(--light-text-color-dark);
+  }
+}
+
+hr {
+  border: none;
+  width: 60%;
+  height: 0.3em;
+  margin: 3em auto;
+  background: var(--light-text-color);
+}
+
+@media (prefers-color-scheme: dark) {
+  hr {
+    background: var(--light-text-color-dark);
+  }
+}
+
 .posts a {
   text-decoration: none;
 }
+
 small {
   font-size: 0.7em;
   opacity: 0.8;
@@ -114,7 +141,7 @@ small {
   }
 }
 
-.home .dateline {
+.dateline {
   text-transform: uppercase;
   font-size: 0.7em;
   font-weight: 300;
