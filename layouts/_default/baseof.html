@@ -11,28 +11,25 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  {{ $rcssOpts := (dict "targetPath" "css/reset.css") }}
+  {{ $cssOpts := (dict "targetPath" "css/styles.css" ) }}
+
   {{ if hugo.IsServer }}
     {{ $rcssOpts := (dict "targetPath" "css/reset.css" "enableSourceMap" true ) }}
-    {{ $rstyles := resources.Get "css/reset.css" | toCSS $rcssOpts }}
-    {{ with $rstyles | fingerprint "sha256" }}
-    <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" media="screen">
-    {{ end }}
     {{ $cssOpts := (dict "targetPath" "css/styles.css" "enableSourceMap" true ) }}
-    {{ $styles := resources.Get "css/styles.css" | toCSS $cssOpts }}
-    {{ with $styles | fingerprint "sha256" }}
-    <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" media="screen">
-    {{ end }}
-  {{ else }}
-    {{ $rcssOpts := (dict "targetPath" "css/reset.css") }}
-    {{ $rstyles := resources.Get "css/reset.css" | toCSS $rcssOpts }}
-    {{ with $rstyles | fingerprint "sha256" }}
-    <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"  media="screen">
-    {{ end }}
-    {{ $cssOpts := (dict "targetPath" "css/styles.css" ) }}
-    {{ $styles := resources.Get "css/styles.css" | toCSS $cssOpts }}
-    {{ with $styles | fingerprint "sha256" }}
-    <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous" media="screen" />
-    {{ end }}
+  {{ end }}
+
+  {{ $rcssOpts := (dict "targetPath" "css/reset.css") }}
+  {{ $rstyles := resources.Get "css/reset.css" | toCSS $rcssOpts }}
+  {{ $cssOpts := (dict "targetPath" "css/styles.css" ) }}
+  {{ $styles := resources.Get "css/styles.css" | toCSS $cssOpts }}
+
+  {{ with $rstyles | fingerprint "sha256" }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"  media="screen">
+  {{ end }}
+
+  {{ with $styles | fingerprint "sha256" }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" media="screen" />
   {{ end }}
 </head>
 
