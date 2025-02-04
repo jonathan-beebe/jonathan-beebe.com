@@ -1,11 +1,11 @@
 @font-face{
   font-family: "IowanOldSt OSF BT Roman";
-  src: url("/fonts/IowanOldSt-OSF-BT-Roman/1e7b25c83a23600d1ab17ef5d3af3402.eot");
-  src: url("/fonts/IowanOldSt-OSF-BT-Roman/1e7b25c83a23600d1ab17ef5d3af3402.eot?#iefix")format("embedded-opentype"),
-      url("/fonts/IowanOldSt-OSF-BT-Roman/1e7b25c83a23600d1ab17ef5d3af3402.woff")format("woff"),
-      url("/fonts/IowanOldSt-OSF-BT-Roman/1e7b25c83a23600d1ab17ef5d3af3402.woff2")format("woff2"),
-      url("/fonts/IowanOldSt-OSF-BT-Roman/1e7b25c83a23600d1ab17ef5d3af3402.ttf")format("truetype"),
-      url("/fonts/IowanOldSt-OSF-BT-Roman/1e7b25c83a23600d1ab17ef5d3af3402.svg#IowanOldSt OSF BT Roman")format("svg");
+  src: url("../fonts/IowanOldSt-OSF-BT-Roman/1e7b25c83a23600d1ab17ef5d3af3402.eot");
+  src: url("../fonts/IowanOldSt-OSF-BT-Roman/1e7b25c83a23600d1ab17ef5d3af3402.eot?#iefix")format("embedded-opentype"),
+      url("../fonts/IowanOldSt-OSF-BT-Roman/1e7b25c83a23600d1ab17ef5d3af3402.woff")format("woff"),
+      url("../fonts/IowanOldSt-OSF-BT-Roman/1e7b25c83a23600d1ab17ef5d3af3402.woff2")format("woff2"),
+      url("../fonts/IowanOldSt-OSF-BT-Roman/1e7b25c83a23600d1ab17ef5d3af3402.ttf")format("truetype"),
+      url("../fonts/IowanOldSt-OSF-BT-Roman/1e7b25c83a23600d1ab17ef5d3af3402.svg#IowanOldSt OSF BT Roman")format("svg");
   font-weight:normal;
   font-style:normal;
   font-display:swap;
@@ -13,12 +13,12 @@
 
 @font-face{
   font-family: "IowanOldSt Blk BT Black";
-  src: url("/fonts/IowanOldSt-Blk-BT-Black/caacd291335e6013fb4f648efee67da7.eot");
-  src: url("/fonts/IowanOldSt-Blk-BT-Black/caacd291335e6013fb4f648efee67da7.eot?#iefix")format("embedded-opentype"),
-      url("/fonts/IowanOldSt-Blk-BT-Black/caacd291335e6013fb4f648efee67da7.woff")format("woff"),
-      url("/fonts/IowanOldSt-Blk-BT-Black/caacd291335e6013fb4f648efee67da7.woff2")format("woff2"),
-      url("/fonts/IowanOldSt-Blk-BT-Black/caacd291335e6013fb4f648efee67da7.ttf")format("truetype"),
-      url("/fonts/IowanOldSt-Blk-BT-Black/caacd291335e6013fb4f648efee67da7.svg#IowanOldSt Blk BT Black")format("svg");
+  src: url("../fonts/IowanOldSt-Blk-BT-Black/caacd291335e6013fb4f648efee67da7.eot");
+  src: url("../fonts/IowanOldSt-Blk-BT-Black/caacd291335e6013fb4f648efee67da7.eot?#iefix")format("embedded-opentype"),
+      url("../fonts/IowanOldSt-Blk-BT-Black/caacd291335e6013fb4f648efee67da7.woff")format("woff"),
+      url("../fonts/IowanOldSt-Blk-BT-Black/caacd291335e6013fb4f648efee67da7.woff2")format("woff2"),
+      url("../fonts/IowanOldSt-Blk-BT-Black/caacd291335e6013fb4f648efee67da7.ttf")format("truetype"),
+      url("../fonts/IowanOldSt-Blk-BT-Black/caacd291335e6013fb4f648efee67da7.svg#IowanOldSt Blk BT Black")format("svg");
   font-weight:normal;
   font-style:normal;
   font-display:swap;
@@ -26,12 +26,12 @@
 
 @font-face{
   font-family: "Iowan Old Style W01 Bold";
-  src: url("/fonts/Iowan-Old-Style-W01-Bold/6bdbc98de74280c5c53856ee86f193b9.eot");
-  src: url("/fonts/Iowan-Old-Style-W01-Bold/6bdbc98de74280c5c53856ee86f193b9.eot?#iefix")format("embedded-opentype"),
-      url("/fonts/Iowan-Old-Style-W01-Bold/6bdbc98de74280c5c53856ee86f193b9.woff")format("woff"),
-      url("/fonts/Iowan-Old-Style-W01-Bold/6bdbc98de74280c5c53856ee86f193b9.woff2")format("woff2"),
-      url("/fonts/Iowan-Old-Style-W01-Bold/6bdbc98de74280c5c53856ee86f193b9.ttf")format("truetype"),
-      url("/fonts/Iowan-Old-Style-W01-Bold/6bdbc98de74280c5c53856ee86f193b9.svg#Iowan Old Style W01 Bold")format("svg");
+  src: url("../fonts/Iowan-Old-Style-W01-Bold/6bdbc98de74280c5c53856ee86f193b9.eot");
+  src: url("../fonts/Iowan-Old-Style-W01-Bold/6bdbc98de74280c5c53856ee86f193b9.eot?#iefix")format("embedded-opentype"),
+      url("../fonts/Iowan-Old-Style-W01-Bold/6bdbc98de74280c5c53856ee86f193b9.woff")format("woff"),
+      url("../fonts/Iowan-Old-Style-W01-Bold/6bdbc98de74280c5c53856ee86f193b9.woff2")format("woff2"),
+      url("../fonts/Iowan-Old-Style-W01-Bold/6bdbc98de74280c5c53856ee86f193b9.ttf")format("truetype"),
+      url("../fonts/Iowan-Old-Style-W01-Bold/6bdbc98de74280c5c53856ee86f193b9.svg#Iowan Old Style W01 Bold")format("svg");
   font-weight:normal;
   font-style:normal;
   font-display:swap;
@@ -39,12 +39,12 @@
 
 @font-face{
   font-family: "Iowan Old Style W01 Italic";
-  src: url("/fonts/Iowan-Old-Style-W01-Italic/376b17e388b936ed3e979f8ce56ad913.eot");
-  src: url("/fonts/Iowan-Old-Style-W01-Italic/376b17e388b936ed3e979f8ce56ad913.eot?#iefix")format("embedded-opentype"),
-      url("/fonts/Iowan-Old-Style-W01-Italic/376b17e388b936ed3e979f8ce56ad913.woff")format("woff"),
-      url("/fonts/Iowan-Old-Style-W01-Italic/376b17e388b936ed3e979f8ce56ad913.woff2")format("woff2"),
-      url("/fonts/Iowan-Old-Style-W01-Italic/376b17e388b936ed3e979f8ce56ad913.ttf")format("truetype"),
-      url("/fonts/Iowan-Old-Style-W01-Italic/376b17e388b936ed3e979f8ce56ad913.svg#Iowan Old Style W01 Bold")format("svg");
+  src: url("../fonts/Iowan-Old-Style-W01-Italic/376b17e388b936ed3e979f8ce56ad913.eot");
+  src: url("../fonts/Iowan-Old-Style-W01-Italic/376b17e388b936ed3e979f8ce56ad913.eot?#iefix")format("embedded-opentype"),
+      url("../fonts/Iowan-Old-Style-W01-Italic/376b17e388b936ed3e979f8ce56ad913.woff")format("woff"),
+      url("../fonts/Iowan-Old-Style-W01-Italic/376b17e388b936ed3e979f8ce56ad913.woff2")format("woff2"),
+      url("../fonts/Iowan-Old-Style-W01-Italic/376b17e388b936ed3e979f8ce56ad913.ttf")format("truetype"),
+      url("../fonts/Iowan-Old-Style-W01-Italic/376b17e388b936ed3e979f8ce56ad913.svg#Iowan Old Style W01 Bold")format("svg");
   font-weight:normal;
   font-style:normal;
   font-display:swap;
