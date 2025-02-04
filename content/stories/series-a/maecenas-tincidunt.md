@@ -1,9 +1,12 @@
 ---
 title: Maecenas tincidunt mi vel libero interdum
+date: '2024-01-01'
 layout: story
 params:
   summary: A story about maecenas tincidunt mi vel
 ---
+
+# Maecenas tincidunt mi vel libero interdum
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis finibus scelerisque suscipit. Duis sagittis nisl ut nibh aliquam, ac porta tellus placerat. Duis dignissim lacinia consectetur. Maecenas enim nisl, bibendum sollicitudin interdum vel, hendrerit quis felis. Nullam viverra ut lacus in vehicula. Nam dolor elit, pretium ac risus quis, pretium aliquam quam. Aenean maximus nunc sed rhoncus semper. Nunc vel nisl massa. Sed blandit sit amet lorem vitae aliquam.
 

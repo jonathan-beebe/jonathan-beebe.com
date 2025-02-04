@@ -1,14 +1,10 @@
 {{ define "main" }}
   <div class="list stories">
     <h1>{{ .Title }}</h1>
-    {{ .Content }}
-    <div class="cards">
-      {{ range .Pages }}
-        <div class="card">
-          <a href="{{ .Permalink | safeURL }}">{{ .Title }}</a>
-          <p><i>{{ .Params.Summary }}</i></p>
-        </div>
+      {{ range .Pages.Reverse }}
+        <a href="{{ .Permalink | safeURL }}">{{ .Title }}</a>
+        <i>{{ .Params.Summary }}</i>
+        <hr class="ornament">
       {{ end }}
-    </div>
   </div>
 {{ end }}

@@ -5,7 +5,7 @@
       {{ if .IsSection }}
         <h2><a href="{{ .Permalink | safeURL }}">{{ .Title }}</a></h2>
         <i>{{ .Params.Summary }}</i>
-        {{ range .Pages }}
+        {{ range .Pages.Reverse}}
         <p><a href="{{ .Permalink | safeURL }}">{{ .Title }}</a></p>
         {{ end }} 
         <hr class="ornament">

@@ -3,5 +3,24 @@
     <div class="text">
       {{ .Content }}
     </div>
+
+    {{ if .Parent.Params.isSeries}}
+    {{ $pages := .CurrentSection.Pages.ByWeight }}
+
+    <nav class="series-nav">
+      {{ with $pages.Next . }}
+        <a class="series-right" href="{{ .RelPermalink }}">&larr;</a>
+      {{ end }}
+      
+      {{ with .Parent}}
+        <a class="series-parent" href="{{ .RelPermalink }}">&uarr;</a>
+      {{ end }}
+
+      {{ with $pages.Prev . }}
+        <a class="series-left" href="{{ .RelPermalink }}">&rarr;</a>
+      {{ end }}
+    </nav>
+    {{ end }}
+
   </div>
 {{ end }}

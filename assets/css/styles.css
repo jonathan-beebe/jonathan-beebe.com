@@ -156,6 +156,25 @@ small {
   line-height: 1.3;
 }
 
+.story .series-nav {
+  display: flex;
+  text-align: center;
+}
+
+.story .series-nav a {
+  text-decoration: none;
+}
+
+.story .series-nav .series-left,
+.story .series-nav .series-right
+{
+  flex-shrink: 1;
+}
+
+.story .series-nav .series-parent {
+  flex-grow: 1;
+}
+
 .stories h1, 
 .story h1 
 {
