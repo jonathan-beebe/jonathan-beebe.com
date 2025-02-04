@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>{{ block "title" . }}
+    <!-- Blocks may include default content. -->
+    {{ .Site.Title }}
+    {{ end }}
+  </title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {{ if hugo.IsServer }}
+    {{ $rcssOpts := (dict "targetPath" "css/reset.css" "enableSourceMap" true ) }}
+    {{ $rstyles := resources.Get "css/reset.css" | toCSS $rcssOpts }}
+    <link rel="stylesheet" href="{{ $rstyles.RelPermalink }}" media="screen">
+    {{ $cssOpts := (dict "targetPath" "css/styles.css" "enableSourceMap" true ) }}
+    {{ $styles := resources.Get "css/styles.css" | toCSS $cssOpts }}
+    <link rel="stylesheet" href="{{ $styles.RelPermalink }}" media="screen">
+  {{ else }}
+    {{ $cssOpts := (dict "targetPath" "css/styles.css" ) }}
+    {{ $styles := resources.Get "css/styles.css" | toCSS $cssOpts }}
+    <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}"
+    crossorigin="anonymous" media="screen" />
+  {{ end }}
+</head>
+
+<body>
+  <!-- Code that all your templates share, like a header -->
+  {{ partial "main-menu.html" . }}
+  {{ block "main" . }}
+  <!-- The part of the page that begins to differ between templates -->
+  {{ end }}
+  {{ block "footer" . }}
+  <!-- More shared code, perhaps a footer but that can be overridden if need be in  -->
+  {{ end }}
+</body>
+
+</html>

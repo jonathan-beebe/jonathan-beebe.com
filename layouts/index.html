@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div class="home">
+  <h1>Recent Posts</h1>
+  {{- range ( where site.RegularPages "Section" "posts" | first 3 ) }}
+    <article>
+      <h2 class="dateline">
+        {{ time.Format "January 2, 2006" .Date }}
+      </h2>
+      <p class="headline"><a href="{{ .Permalink | safeURL }}">{{ .Title }}</a></p>
+      {{ .Content}}
+    </article>
+  {{ end }}
+  <a href="{{ "posts" | relURL }}">More posts</a>
+</div>
+{{ end }}

@@ -1,0 +1,14 @@
+{{ define "main" }}
+  <div class="list stories">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+    <div class="cards">
+      {{ range .Pages }}
+        <div class="card">
+          <a href="{{ .Permalink | safeURL }}">{{ .Title }}</a>
+          <p><i>{{ .Params.Summary }}</i></p>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+{{ end }}

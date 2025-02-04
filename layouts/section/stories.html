@@ -1,0 +1,19 @@
+{{ define "main" }}
+  <div class="list stories">
+    <h1>Short Stories & Flash Fiction</h1>
+      {{ range .Pages }}
+      {{ if .IsSection }}
+        <h2><a href="{{ .Permalink | safeURL }}">{{ .Title }}</a></h2>
+        <i>{{ .Params.Summary }}</i>
+        {{ range .Pages }}
+        <p><a href="{{ .Permalink | safeURL }}">{{ .Title }}</a></p>
+        {{ end }} 
+        <hr class="ornament">
+      {{ else }}
+        <a href="{{ .Permalink | safeURL }}">{{ .Title }}</a>
+        <i>{{ .Params.Summary }}</i>
+        <hr class="ornament">
+      {{ end }}
+      {{ end }}
+  </div>
+{{ end }}
