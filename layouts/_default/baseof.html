@@ -19,6 +19,9 @@
     {{ $styles := resources.Get "css/styles.css" | toCSS $cssOpts }}
     <link rel="stylesheet" href="{{ $styles.RelPermalink }}" media="screen">
   {{ else }}
+    {{ $rcssOpts := (dict "targetPath" "css/reset.css") }}
+    {{ $rstyles := resources.Get "css/reset.css" | toCSS $rcssOpts }}
+    <link rel="stylesheet" href="{{ $rstyles.RelPermalink }}" media="screen">
     {{ $cssOpts := (dict "targetPath" "css/styles.css" ) }}
     {{ $styles := resources.Get "css/styles.css" | toCSS $cssOpts }}
     <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}"
