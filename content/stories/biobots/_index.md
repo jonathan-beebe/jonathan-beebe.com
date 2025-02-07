@@ -1,5 +1,5 @@
 ---
-title: Series A
+title: Biobots
 layout: series
 params:
   isSeries: true

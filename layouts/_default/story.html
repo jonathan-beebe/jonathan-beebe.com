@@ -1,6 +1,9 @@
 {{ define "main" }}
   <div class="story">
     <div class="text">
+      {{ if .Parent.Params.isSeries}}
+        <h1>{{ .Parent.Title }}</h1>
+      {{ end }}
       {{ .Content }}
     </div>
 

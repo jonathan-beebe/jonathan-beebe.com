@@ -45,3 +45,9 @@ storiesSection = "stories"
   [[module.mounts]]
     source = "archetypes"
     target = "archetypes"
+
+[outputs]
+  home = ['html']
+  section = ['html', 'rss']
+  taxonomy = ['html']
+  term = ['html']

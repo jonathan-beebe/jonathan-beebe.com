@@ -50,9 +50,6 @@ If you have primed this with the top three key risks, as discussed above, you wi
 
 Being intentional about your patterns of communication is essential. Your leaders, stakeholders, and peers will all have more awareness of what you are doing and why. With a shared why, you can foster buy-in and align your problem with theirs. This opens up doors to collaboration and allows everyone to succeed.
 
-If you’ve gotten this far and are not yet a subscriber to Software ↔️ Author, maybe you should be!
-
-
 ***
 
 # 7 Other Things

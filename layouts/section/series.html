@@ -1,10 +1,22 @@
 {{ define "main" }}
+  {{ $seriesTitle := .Title }}
   <div class="list stories">
-    <h1>{{ .Title }}</h1>
-      {{ range .Pages.Reverse }}
-        <a href="{{ .Permalink | safeURL }}">{{ .Title }}</a>
-        <i>{{ .Params.Summary }}</i>
-        <hr class="ornament">
-      {{ end }}
+      <section class="series-title">
+        <h1>{{ $seriesTitle }}</h1>
+        {{ with .Params.Summary }}
+          <em>{{ . }}</em>
+        {{ end }}
+      </section>
+      <hr class="ornament">
+      <section>
+        {{ range .Pages.Reverse}}
+          <p>
+            <a class="title" href="{{ .Permalink | safeURL }}">{{ .Title }}</a>
+            {{ with .Params.Summary }}
+            <em>{{ . }}</em>
+            {{ end }}
+          </p>
+        {{ end }} 
+      </section>
   </div>
 {{ end }}

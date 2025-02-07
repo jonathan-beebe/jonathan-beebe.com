@@ -31,14 +31,20 @@
   {{ with $styles | fingerprint "sha256" }}
   <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" media="screen" />
   {{ end }}
+
+  {{ with .OutputFormats.Get "rss" -}}
+    {{ printf `<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
+  {{ end }}
 </head>
 
 <body>
   <!-- Code that all your templates share, like a header -->
   {{ partial "main-menu.html" . }}
+  <section>
   {{ block "main" . }}
   <!-- The part of the page that begins to differ between templates -->
   {{ end }}
+  </section>
   {{ block "footer" . }}
   <!-- More shared code, perhaps a footer but that can be overridden if need be in  -->
   {{ end }}

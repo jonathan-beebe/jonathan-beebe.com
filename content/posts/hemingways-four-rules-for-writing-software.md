@@ -78,9 +78,6 @@ Obviously an exercise like this is entirely subjective. Even if you like Hemingw
 
 You might write code that you feel perfectly expresses the intent of the program. And yet, it won’t appeal to someone else’s taste. They will likely find something they feel is wrong. And that’s ok. The point is simply to reconsider _what makes for amazing code?_ To push yourself to be better. Hemingway had rules to push himself to be a better writer. What rules do you have to help you be a better coder?
 
-_If you’ve gotten this far and are not yet a subscriber to Software ↔️ Author, maybe you should be!_
-
-
 ***
 
 # 7 Other Things
