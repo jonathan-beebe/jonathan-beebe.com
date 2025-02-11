@@ -1,33 +1,8 @@
 {{ define "main" }}
   <div class="list stories">
-    <h1>Short Stories & Flash Fiction</h1>
-
-    <hr class="ornament">
-
-    <section>
-      <h2>Collections</h2>
-      {{ range .Pages }}
-        {{ if .IsSection }}
-          {{ $sectionTitle := .Title }} 
-          <section>
-            <h3><a href="{{ .Permalink | safeURL }}">{{ .Title }}</a></h3>
-            {{ with .Params.Summary }}
-              <em>{{ . }}</em>
-            {{ end }}
-            <section>
-            {{ range .Pages.Reverse}}
-              <p>
-                <a class="title" href="{{ .Permalink | safeURL }}">{{ .Title }}</a>
-                {{ with .Params.Summary }}
-                <em>{{ . }}</em>
-                {{ end }}
-              </p>
-            {{ end }} 
-            </section>
-          </section>
-        {{ end }}
-      {{ end }}
-    </section>
+    <h1>Short Stories & Poems</h1>
+    
+    {{ .Content }}
 
     <hr class="ornament">
 
@@ -46,6 +21,32 @@
           {{ end }}
         {{ end }}
       </section>
+
+      <hr class="ornament">
+
+      <h2>Collections</h2>
+      {{ range .Pages }}
+        {{ if .IsSection }}
+          {{ $sectionTitle := .Title }} 
+          <section>
+            <h3><a href="{{ .Permalink | safeURL }}">{{ .Title }}</a></h3>
+            {{ with .Params.Summary }}
+              <em>{{ . }}</em>
+            {{ end }}
+            <section>
+              {{ range .Pages.Reverse}}
+                <p>
+                  <a class="title" href="{{ .Permalink | safeURL }}">{{ .Title }}</a>
+                  {{ with .Params.Summary }}
+                  <em>{{ . }}</em>
+                  {{ end }}
+                </p>
+              {{ end }} 
+            </section>
+          </section>
+        {{ end }}
+      {{ end }}
+
     </section>
   </div>
 {{ end }}

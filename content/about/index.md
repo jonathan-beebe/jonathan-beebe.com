@@ -1,14 +1,29 @@
 ---
-title: About
-menu: main
+title: About Jonathan Beebe
+menu: 
+  main:
+    name: "About"
+layout: about
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tincidunt volutpat egestas. Cras nisl mauris, sodales in bibendum in, cursus at felis. Fusce nisi quam, pharetra at ex sed, fermentum ultrices massa. Integer maximus iaculis diam at efficitur. Donec luctus enim in tellus porttitor, id maximus sapien dictum. Duis non est quis nulla ullamcorper efficitur a vitae odio. Suspendisse eget neque quis elit dictum suscipit nec et lectus. Nunc at ultrices sapien, id bibendum nunc. Maecenas dignissim interdum ipsum ac tristique. Aenean cursus tempus pharetra.
+This is the personal site of Jonathan Beebe where I share some of my writings and musings.
 
-Nam bibendum mollis sem quis interdum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent volutpat rhoncus felis, quis sollicitudin turpis fringilla vel. Phasellus dictum leo sed iaculis molestie. Vivamus arcu nunc, condimentum semper nisi nec, interdum porta justo. Mauris ac tincidunt nisi. Nulla maximus nibh nec augue condimentum, in blandit eros feugiat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis non purus efficitur, gravida quam at, porta velit. Donec fringilla sapien a ex blandit aliquet. Integer non nulla maximus, auctor massa finibus, porttitor erat. Nunc porta elit magna, ac maximus justo euismod et. Nam vulputate sit amet urna a fermentum.
+I enjoy writing [short stories](/stories), mostly flash fiction of less than 1,000 words. While fictional, there is an autobiographical nature to my writing. I draw from my past and my interiority. I often use writing as a way to explore ideas I am wrestling with or situations I am growing through.
 
-Vivamus nec odio eget nunc dapibus sagittis. Vestibulum facilisis dapibus laoreet. Nunc tristique ligula at nibh lobortis pulvinar. Aliquam erat volutpat. In sit amet lacus gravida, bibendum nisi in, suscipit leo. Nulla eu nulla tincidunt, elementum lacus ut, convallis magna. Ut at volutpat lacus.
+---
 
-Nunc efficitur ipsum orci, ut consectetur est lacinia in. Pellentesque a fermentum est. Quisque ultricies nulla quis libero blandit luctus. Nunc convallis, nunc a condimentum placerat, arcu magna ultrices sem, nec faucibus metus nisi interdum odio. Ut non auctor lectus. Phasellus consequat laoreet tortor. Aenean posuere tincidunt est quis varius. Nam tincidunt turpis id sollicitudin porttitor. Aliquam erat volutpat. Ut enim orci, cursus id mi ultrices, suscipit cursus purus. Nam blandit arcu sollicitudin, imperdiet ligula ac, vulputate nunc. Aliquam in commodo libero, a accumsan diam. Curabitur in tempor risus.
+Professionally, I create digital products. I help non technical people turn their ideas into working software so they can focus on their business.
 
-Phasellus vehicula risus tellus, imperdiet accumsan magna maximus ac. Duis at pellentesque ipsum. Sed tincidunt tortor et porta sagittis. Maecenas vitae rutrum tortor. Aliquam eleifend ornare neque. Suspendisse a imperdiet ex, id mattis arcu. Nulla ac interdum tellus, at scelerisque leo. Integer lorem odio, ultricies in urna ut, sollicitudin dignissim massa. Nunc dictum massa et odio suscipit cursus. Cras dapibus arcu eros, ut aliquam arcu porttitor sed. Nullam eleifend ligula a rhoncus ultrices. Duis iaculis ipsum eros, vitae elementum ex tincidunt ut. Cras a orci aliquet, tristique nisi vitae, cursus ipsum. Nunc facilisis scelerisque libero luctus faucibus.
+Over the past two decades I have helped design, build, and ship over 15 digital products. I helped at least three businesses go from zero to over $1 million in revenue. I have started and grown software engineering teams. I lead technology for a $150 million business. I built a digital bank. I have even founded three businesses myself (an online market & import business, a large format print shop, and a digital products company).
+
+If you have an idea you want to prototype or bring to market, send me a messagse. Maybe I can help? One of my strengths is demystifying technology and helping my clients know what is the next right step.
+
+---
+
+Here are some nice things people have said about me professionally:
+
+> “Jon has a very rare pairing of creative and technical genius, allowing him to tackle advanced mathematical programming problems while coming up with creative business ideas.”
+
+> “You're a great, thoughtful people leader-and a kickass engineer. I seldom see both.”
+
+> “Through his gentle yet firm mentoring and guidance, his subtle yet bold leadership, and thought-provoking questions like those, I have experienced tremendous personal and professional growth. He is by far the best leader I’ve ever been able to work with, technical or otherwise. I consider working with him the highlight of my career.”

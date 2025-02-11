@@ -2,7 +2,7 @@
   <div class="story">
     <div class="text">
       {{ if .Parent.Params.isSeries}}
-        <h1>{{ .Parent.Title }}</h1>
+        <h1>{{ .Parent.Title }}<br>—<br>{{ .Title }}</h1>
       {{ end }}
       {{ .Content }}
     </div>

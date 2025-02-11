@@ -2,11 +2,7 @@
 title: Extension Pack
 date: '2024-01-12'
 layout: story
-params:
-  summary: What would happen if a company created snap-together toy blocks that could assemble a living creature?
 ---
-
-# Extension Pack
 
 “You think they’re alive?” asked grandpa.
 
