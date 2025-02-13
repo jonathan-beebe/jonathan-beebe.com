@@ -298,7 +298,8 @@ small {
 }
 
 .story p {
-  margin: 1.3em 0;
+  margin: 1.6em 0;
+  line-height: 1.6em;
 }
 
 .stories > h1 {
