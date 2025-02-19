@@ -31,9 +31,14 @@
   <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" media="screen" />
   {{ end }}
 
-  {{ with .OutputFormats.Get "rss" -}}
-    {{ printf `<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
+  {{ $rssTitle := $.Title}}
+  {{ if ($.Params.rssTitle) }}
+    {{ $rssTitle = $.Params.rssTitle }}
   {{ end }}
+  {{ with .OutputFormats.Get "rss" -}}
+    {{ printf `<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink $rssTitle | safeHTML }}
+  {{ end }}
+
 </head>
 
 <body>
