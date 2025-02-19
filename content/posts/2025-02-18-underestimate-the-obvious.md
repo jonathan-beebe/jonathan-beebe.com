@@ -3,7 +3,7 @@ title: 'Underestimating the Obvious'
 date: '2025-02-18'
 ---
 
-> [Once something is obvious and working, people tend to underestimate it.](https://fs.blog/brain-food/february-16-2025/)
+> Once something is obvious and working, people tend to underestimate it. ([source](https://fs.blog/brain-food/february-16-2025/))
 
 I experienced this first-hand in my very first software role. I was using AppleScript to automate redundant tasks. If the task was chosen wisely it only required a few hours of hacking on a simple script. A two-hour job transformed into a two-second automation. 
 

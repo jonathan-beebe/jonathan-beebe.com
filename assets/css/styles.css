@@ -117,6 +117,14 @@ a.active {
   text-underline-offset: 3.5pt;
 }
 
+a.footnote-ref::before {
+  content: '[';
+}
+
+a.footnote-ref::after {
+  content: ']';
+}
+
 @media (prefers-color-scheme: dark) {
   a {
     text-decoration-color: rgba(255,255,255,0.6);
@@ -127,6 +135,7 @@ blockquote {
   border-left: 0.3em solid var(--light-text-color);
   padding-left: 1em;
   margin-left: 0;
+  font-weight: lighter;
 }
 
 @media (prefers-color-scheme: dark) {
