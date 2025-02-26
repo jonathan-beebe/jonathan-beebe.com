@@ -1,7 +1,11 @@
 {{ define "main" }}
 <div class="home">
   <h1>Recent Posts</h1>
-  {{- range ( where site.RegularPages "Section" "posts" | first 3 ) }}
+  {{- range ( 
+    where (
+      where site.RegularPages "Section" "posts"
+    ) "Params.skipHome" "ne" true | first 3 
+  ) }}
     <article>
       <h2 class="dateline">
         {{ time.Format "January 2, 2006" .Date }}

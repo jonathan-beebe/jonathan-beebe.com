@@ -3,9 +3,13 @@ languageCode = 'en-us'
 title = 'The personal site of Jonathan Beebe'
 sectionPagesMenu = "main"
 enableRobotsTXT = true
+copyright = '© 2025 Jonathan Beebe'
 
 [params]
-storiesSection = "stories"
+  storiesSection = "stories"
+  [params.author]
+    email = 'jonathan-beebe@outlook.com'
+    name = 'Jonathan Beebe'
 
 [menu]
 [[menu.main]]
