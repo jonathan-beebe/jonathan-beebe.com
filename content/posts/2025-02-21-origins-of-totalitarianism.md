@@ -8,7 +8,7 @@ title: 'Origins of Totalitarianism'
 
 This quote by Ryan Holiday grabbed me and held me. Lately I have been investing in literature to understand the current state of American and global politics. How did we get here? How can I make sense of today? Where are we headed?
 
-I found a book from 1951, *“Origins of Totalitarianism”*, by Hannah Arendt. Much of this book feels as if someone wrote it yesterday. Yet it was written in the aftermath of WWII, exploring the history of how totalitarian regimes like Hitler’s Nazi Germany and Stalin’s Russia emerged. This book has a long half-life. 
+I found a book from 1951, *“Origins of Totalitarianism”*, by Hannah Arendt. Much of this book feels as if someone wrote it yesterday. Yet it was written in the aftermath of WWII, exploring the history of how totalitarian regimes like Hitler’s Nazi Germany and Stalin’s Soviet Union emerged. This book has a long half-life.
 
 This quote feels like someone could have written this book yesterday.
 
