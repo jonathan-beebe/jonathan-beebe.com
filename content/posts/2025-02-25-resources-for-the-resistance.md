@@ -126,6 +126,7 @@ Christian Nationalists are one of the primary voting bases for authoritarianism,
 - [On Trump, Christianity, and Mercy, Dan McClellan](https://www.youtube.com/watch?v=IB8P6R6ZLGo)
 - [AOC on fake Christians using scripture to justify bigotry](https://www.reddit.com/r/PublicFreakout/s/D4UbQVV2s0)
 - [Drunk on Power: Christian Nationalism's War on Democracy](https://m.youtube.com/watch?v=RTmlNvf5lRs&pp=ygUgaGlzdG9yeSBvZiBjaHJpc3RpYW4gbmF0aW9uYWxpc20%3D)
+- [“Your enemies should be having nightmares every night thinking about what the Christians are going to do to them . . . terrorize, I use that word intentionally, it is a biblical word.”](https://www.peoplefor.org/rightwingwatch/joel-webbon-says-christian-nationalists-must-use-power-government-absolutely)
 
 ---
 
