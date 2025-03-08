@@ -74,7 +74,7 @@ First, it is helpful to have a definition of terms. These terms are often thrown
 
 ---
 
-# People to Follow
+# People or Resources to Follow
 
 [**Heather Cox Richardson**](https://heathercoxrichardson.substack.com/)
 : Her [newsletter](https://heathercoxrichardson.substack.com/) is all about patterns in history, understanding today through understanding where we came from.
@@ -85,6 +85,12 @@ First, it is helpful to have a definition of terms. These terms are often thrown
 
 [**Politics Girl, Leigh McGowan**](https://www.politicsgirl.com/)
 : I love her approach, “when you understand you care, and when you care you vote”. Her [YouTube shorts](https://www.youtube.com/@PoliticsGirl/shorts) are a great starting point for connecting with her content. And she has a [podcast](https://podcasts.apple.com/us/podcast/the-politicsgirl-podcast/id1595408601), [book](https://www.simonandschuster.com/books/A-Return-to-Common-Sense/Leigh-McGowan/9781668066430), and you can learn more at her [website](https://www.politicsgirl.com/).
+
+[**Project 2025 Observer**](https://www.project2025.observer/)
+: A community-driven resource tracking the progress of Project 2025.
+
+[**POTUS Tracker**](https://potustracker.us/)
+: A real-time tracking platform that monitors the President of the United States' location, schedule, signed legislation, and executive orders.
 
 ---
 
@@ -133,9 +139,13 @@ Christian Nationalists are one of the primary voting bases for authoritarianism,
 # Taking Action
 
 - [Know Your Rights as a Protestor | ACLU](https://www.aclu.org/know-your-rights/protesters-rights)
+- [Build the Resistance](https://www.buildtheresistance.org/) — a real-time window into the growing movement fighting to defend our country.
 - [50501](https://www.fiftyfifty.one/) and the Reddit sub [r/50501](https://www.reddit.com/r/50501/). One of the best places to see real coverage of protests happening across the country.
 - [What can I do to fight this coup?](https://choosedemocracy.us/what-can-i-do/)
 - [Let this radicalize you](https://www.haymarketbooks.org/books/1922-let-this-radicalize-you)
 - [A great BlueSky thread with resources for the growing resistance](https://bsky.app/profile/resistlist.bsky.social/post/3lil7mvmofc2u)
 - [Call your governor. Call your attorney general. Call your state legislators.](https://theradicalfederalist.substack.com/p/radical-federalism-in-action-how-62b)
 - Find your local meetup. For example, here is [#Resist: Nashville](https://www.meetup.com/resist-nashville/).
+- [Stand Up For Science](https://standupforscience2025.org/)
+- [5 Calls makes it easy for you to reach your members of Congress and make your voice heard](https://5calls.org/)
+- [Resist Bot: Contact all your officials at once](https://resist.bot/)
