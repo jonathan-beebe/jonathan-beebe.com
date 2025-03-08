@@ -126,7 +126,6 @@ Christian Nationalists are one of the primary voting bases for authoritarianism,
 
 - [One Leader Under God: The Connection Between Authoritarianism and Christian Nationalism in America](https://www.prri.org/research/one-leader-under-god-the-connection-between-authoritarianism-and-christian-nationalism-in-america/)
 - [Silicon Valley is Embracing Christianity (With the Help of Peter Thiel) — The New York Times](https://www.nytimes.com/2025/02/11/business/silicon-valley-christianity.html)
-- [The New Rasputins — The Atlantic](https://apple.news/AS925YJm_QdmqVJdSWuhXxA)
 - [The Army of God Comes Out of the Shadows — The Atlantic](https://www.theatlantic.com/magazine/archive/2025/02/new-apostolic-reformation-christian-movement-trump/681092/)
 - [Trump and Religion, Dan McClellan](https://www.youtube.com/watch?v=ObePfeqlP_U)
 - [On Trump, Christianity, and Mercy, Dan McClellan](https://www.youtube.com/watch?v=IB8P6R6ZLGo)
