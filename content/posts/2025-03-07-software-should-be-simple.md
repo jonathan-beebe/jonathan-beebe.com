@@ -4,7 +4,7 @@ draft: false
 title: 'Great Software Design'
 ---
 
-I found myself agreeing with every "great sofware design is" statement in [this post](https://www.seangoedecke.com/great-software-design/). 
+I found myself agreeing with every "great sofware design" statement in [this post](https://www.seangoedecke.com/great-software-design/). 
 
 > Great software design looks underwhelming.
 >

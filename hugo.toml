@@ -17,6 +17,13 @@ copyright = '© 2025 Jonathan Beebe'
   name = 'Home'
   url = '/'
   weight = 10
+[[menu.footer]]
+  name = 'Contact'
+  url = '/about#contact'
+[[menu.footer]]
+  name = 'rss'
+  url = '/posts/index.xml'
+  
 
 [module]
   [[module.mounts]]

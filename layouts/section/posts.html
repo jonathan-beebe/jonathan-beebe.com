@@ -1,10 +1,15 @@
 {{ define "main" }}
-  <div class="list posts">
-    <h1>Posts</h1>
-      {{ range .Pages }}
-        <p>
-          <a href="{{ .Permalink | safeURL }}">{{ .Title }}</a> <small class="dateline">{{ .Date.Format "2006-01-02" }}</small>
-        </p>
-      {{ end }}
-  </div>
+<div class="list posts">
+  <h1>
+    Posts {{ with .OutputFormats.Get "rss" -}}
+    <small>(<a class="decorate" href="{{ .Permalink | safeURL }}">rss</a>)</small>
+    {{ end }}
+  </h1>
+  {{ range .Pages }}
+  <p>
+    <a href="{{ .Permalink | safeURL }}">{{ .Title }}</a>
+    <small class="dateline">{{ .Date.Format "2006-01-02" }}</small>
+  </p>
+  {{ end }}
+</div>
 {{ end }}

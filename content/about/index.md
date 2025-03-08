@@ -27,3 +27,13 @@ Here are some nice things people have said about me professionally:
 > “You're a great, thoughtful people leader-and a kickass engineer. I seldom see both.”
 
 > “Through his gentle yet firm mentoring and guidance, his subtle yet bold leadership, and thought-provoking questions like those, I have experienced tremendous personal and professional growth. He is by far the best leader I’ve ever been able to work with, technical or otherwise. I consider working with him the highlight of my career.”
+
+---
+
+# Contact
+
+- [Github](https://github.com/jonathan-beebe)
+- [LinkedIn](https://www.linkedin.com/in/---jonathan-beebe---/)
+- [StackOverflow](https://stackoverflow.com/users/123781/jonathan-beebe)
+
+

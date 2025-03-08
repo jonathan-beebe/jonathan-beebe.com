@@ -161,6 +161,9 @@ hr {
 .posts a {
   text-decoration: none;
 }
+.posts a.decorate {
+  text-decoration: underline;
+}
 
 dd {
   margin-block-start: 0em;
@@ -369,4 +372,22 @@ nav ul {
 nav ul li {
   display: inline;
   margin-right: 1em;
+}
+
+nav ul li:last-child {
+  margin-right: 0;
+}
+
+
+footer {
+  border-top: 0.1em solid var(--light-text-color);
+  font-size: 0.8em;
+  text-align: center;
+  margin-top: 10em;
+  padding-top: 3em;
+  opacity: 0.6;
+}
+
+footer nav {
+  text-transform: lowercase;
 }
