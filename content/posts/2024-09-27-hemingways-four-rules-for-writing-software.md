@@ -80,7 +80,7 @@ You might write code that you feel perfectly expresses the intent of the program
 
 ***
 
-# 7 Other Things
+## 7 Other Things
 
 1.  🤣 A youtube short on [reviewing three lines of code vs reviewing 30,000](https://www.youtube.com/shorts/n0jpmnn4cNI).
     
@@ -99,7 +99,7 @@ You might write code that you feel perfectly expresses the intent of the program
 
 * * *
 
-# Parting thought
+## Parting thought
 
 If you are in tech you might believe everyone is using AI, given the constant barrage of news in this space. But it appears customers are not nearly as engaged. In a thought-provoking piece (originally by Ed Zitron, [summarized by Emmanuel Maggiori](https://www.linkedin.com/posts/emaggiori_the-subprime-ai-crisis-activity-7241796179280162817-8vYB/)) they share:
 

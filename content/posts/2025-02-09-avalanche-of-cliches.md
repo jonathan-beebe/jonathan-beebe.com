@@ -24,7 +24,7 @@ A creative human cares deeply, and this care will manifest in the expression of 
 
 The problem with bland AI slop is eloquently summarized by June in one of her final statements, "ChatGPT wraps up with an avalanche of cliches . . ."
 
-# 3 Other Things
+## 3 Other Things
 
 1. Apple is [telling it’s AI to not hallucinate](https://arstechnica.com/gadgets/2024/08/do-not-hallucinate-testers-find-prompts-meant-to-keep-apple-intelligence-on-the-rails/). Makes sense, it allways works when I tell my child to not lie 🙄
 2. Researchers are experimenting with [AI systems to do science](https://arxiv.org/abs/2409.05556v1), revealing connections between data previously unseen. This is really interesting work. However, going with the theme of June’s article above, most of my favorite scientific breakthroughts came from the creative art of experiment design.

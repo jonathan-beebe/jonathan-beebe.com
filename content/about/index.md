@@ -30,7 +30,7 @@ Here are some nice things people have said about me professionally:
 
 ---
 
-# Contact
+## Contact
 
 - [Github](https://github.com/jonathan-beebe)
 - [LinkedIn](https://www.linkedin.com/in/---jonathan-beebe---/)

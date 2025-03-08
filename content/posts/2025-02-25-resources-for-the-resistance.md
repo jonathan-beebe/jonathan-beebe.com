@@ -6,7 +6,7 @@ title: '✊🏽 Resources for the Resistance'
 
 Like many Americans, I am deeply troubled by America’s slide into an authoritarian and fascist government. I have started collecting the following resources as I strive to understand the history of how we got here (because [none of this is new]({{< ref "posts/2025-02-21-origins-of-totalitarianism" >}})), where we are going, and what I can do about it. 
 
-# Definition of Terms
+## Definition of Terms
 
 First, it is helpful to have a definition of terms. These terms are often thrown around as badges of honor or slurs of accusation, with little regard to their actual meaning. Within the context of this site, I try to use these words as accurately as possible. Words have meaning, and using them correctly is important. *All definitions sourced from The New Oxford American Dictionary, Apple’s macOS dictionary, and [*A Brief History of How We Got Here*](https://overcast.fm/+AA1RBVEH8g0).*
 
@@ -58,7 +58,7 @@ First, it is helpful to have a definition of terms. These terms are often thrown
 
 ---
 
-# Books & Long Form Content
+## Books & Long Form Content
 
 **[Origins of Totalitarianism](https://www.ethicalbooksearch.com/us/books/m/ol:OL37617478W/origins-of-totalitarianism-hannah-arendt)**
 : Published in 1951 by Hannah Arendt, parts of this book read like it was written today. *None of this is new.*
@@ -74,7 +74,7 @@ First, it is helpful to have a definition of terms. These terms are often thrown
 
 ---
 
-# People or Resources to Follow
+## People or Resources to Follow
 
 [**Heather Cox Richardson**](https://heathercoxrichardson.substack.com/)
 : Her [newsletter](https://heathercoxrichardson.substack.com/) is all about patterns in history, understanding today through understanding where we came from.
@@ -94,7 +94,7 @@ First, it is helpful to have a definition of terms. These terms are often thrown
 
 ---
 
-# Articles & Short-Form Writing
+## Articles & Short-Form Writing
 
 [A Study Guide to Authoritarianism - The Atlantic](https://www.theatlantic.com/membership/archive/2018/08/a-study-guide-to-the-rise-of-authoritarianism/568945/) 
 
@@ -120,7 +120,7 @@ First, it is helpful to have a definition of terms. These terms are often thrown
 
 ---
 
-# Christianity’s Role
+## Christianity’s Role
 
 Christian Nationalists are one of the primary voting bases for authoritarianism, giving rise to Trumpism and opening the doors to bigotry, hate, and tyranny. It is worth understanding how a religion professing mercy, love, and compassion has been twisted to bring so much hate and evil, and why they are so intent to legislate their morality on all of us.
 
@@ -135,7 +135,7 @@ Christian Nationalists are one of the primary voting bases for authoritarianism,
 
 ---
 
-# Taking Action
+## Taking Action
 
 - [Know Your Rights as a Protestor | ACLU](https://www.aclu.org/know-your-rights/protesters-rights)
 - [Build the Resistance](https://www.buildtheresistance.org/) — a real-time window into the growing movement fighting to defend our country.
