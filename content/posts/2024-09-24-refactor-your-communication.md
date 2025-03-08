@@ -1,6 +1,9 @@
 ---
 title: 'Refactor Your Communication: 3 Tools to Engineer Buy-In and Commitment'
 date: '2024-09-24'
+tags: 
+  - software-engineering
+  - communication
 ---
 
 I have found these communication tools make my job as a software engineer far easier. They allow me to foster buy-in and focus my efforts. Let’s dive right in.

@@ -2,6 +2,8 @@
 title: 'ChatGPT wraps up with an avalanche of cliches . . .'
 subtitle: 'An example of just how bland AI output is compared to a creative human.'
 date: '2025-02-09'
+tags: 
+  - technology
 ---
 
 *An example of just how bland AI output is compared to a creative human.*

@@ -158,13 +158,6 @@ hr {
   }
 }
 
-.posts a {
-  text-decoration: none;
-}
-.posts a.decorate {
-  text-decoration: underline;
-}
-
 dd {
   margin-block-start: 0em;
   margin-block-end: 0.5em;

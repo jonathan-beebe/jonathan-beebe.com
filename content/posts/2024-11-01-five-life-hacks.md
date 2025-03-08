@@ -1,6 +1,8 @@
 ---
 title: 'Five life hacks I know at 44 but I wish I knew at 24'
 date: '2024-10-12'
+tags: 
+  - ruminations
 ---
 
 1. Passing life hacks to your past self is pretentious. Don’t fall into the trap of thinking you need to do this.

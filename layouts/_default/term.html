@@ -1,0 +1,11 @@
+{{ define "main" }}
+  <div class="list term">
+    <h1><a href="{{ .Parent.RelPermalink }}">{{ .Data.Plural }}</a> » {{ .Title }}</h1>
+    {{ .Content }}
+    <ul>
+    {{ range .Pages }}
+      <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+    {{ end }}
+    </ul>
+  </div>
+{{ end }}

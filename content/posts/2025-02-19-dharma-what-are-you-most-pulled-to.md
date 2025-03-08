@@ -1,6 +1,8 @@
 ---
 date: '2025-02-19T09:32:49-06:00'
 title: 'What are you most pulled toward?'
+tags: 
+  - ruminations
 ---
 
 > . . . a recognition of what is your dharma which is, what are the problems you feel most pulled to and you can’t turn away from . . . pour your whole devotion into it.  [^1]

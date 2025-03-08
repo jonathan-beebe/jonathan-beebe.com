@@ -28,7 +28,7 @@
   {{ end }}
 
   {{ with $styles | fingerprint "sha256" }}
-  <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" media="screen" />
+  <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" media="screen">
   {{ end }}
 
   {{ $rssTitle := $.Title}}

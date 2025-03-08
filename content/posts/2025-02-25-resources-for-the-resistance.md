@@ -2,6 +2,8 @@
 date: '2025-03-06'
 draft: false
 title: '✊🏽 Resources for the Resistance'
+tags: 
+  - politics
 ---
 
 Like many Americans, I am deeply troubled by America’s slide into an authoritarian and fascist government. I have started collecting the following resources as I strive to understand the history of how we got here (because [none of this is new]({{< ref "posts/2025-02-21-origins-of-totalitarianism" >}})), where we are going, and what I can do about it. 

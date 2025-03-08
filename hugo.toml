@@ -4,6 +4,7 @@ title = 'The personal site of Jonathan Beebe'
 sectionPagesMenu = "main"
 enableRobotsTXT = true
 copyright = '© 2025 Jonathan Beebe'
+capitalizeListTitles = false
 
 [params]
   storiesSection = "stories"

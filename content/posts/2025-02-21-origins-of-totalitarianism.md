@@ -2,6 +2,8 @@
 date: '2025-02-26'
 draft: false
 title: 'Origins of Totalitarianism'
+tags: 
+  - politics
 ---
 
 > [Go for information that has a long half-life, not something that's going to be contradicted in the next week.](https://ryanholiday.net/heres-how-im-preparing-for-the-next-four-years/)

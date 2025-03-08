@@ -2,6 +2,9 @@
 title: 'Hemingway’s Four Rules for Writing [Software]'
 subtitle: 'A cheeky riff on the famous author’s rules for writing'
 date: '2024-09-27'
+tags: 
+  - software-engineering
+  - communication
 ---
 
 Hemingway swore by these four rules for writing prose ([source](https://www.wordsthatsing.com.au/post/hemingway-rules)):

@@ -1,6 +1,9 @@
 ---
 title: 'Underestimating the Obvious'
 date: '2025-02-18'
+tags: 
+  - ruminations
+  - technology
 ---
 
 > Once something is obvious and working, people tend to underestimate it. ([source](https://fs.blog/brain-food/february-16-2025/))

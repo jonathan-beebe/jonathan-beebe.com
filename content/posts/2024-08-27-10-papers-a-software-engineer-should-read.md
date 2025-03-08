@@ -1,6 +1,9 @@
 ---
 title: 'Ten Papers a Software Engineer Should Read'
 date: '2024-08-27'
+tags: 
+  - software-engineering
+  - technology
 ---
 
 There’s no such thing as “self-taught.”

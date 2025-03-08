@@ -2,6 +2,8 @@
 date: '2025-03-07'
 draft: false
 title: 'Great Software Design'
+tags: 
+  - software-engineering
 ---
 
 I found myself agreeing with every "great sofware design" statement in [this post](https://www.seangoedecke.com/great-software-design/). 
