@@ -1,5 +1,6 @@
 {
   "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.unicodeHighlight.ambiguousCharacters": false,
     "editor.unicodeHighlight.invisibleCharacters": false,
     "diffEditor.ignoreTrimWhitespace": false,
@@ -13,5 +14,5 @@
       "strings": "off",
       "other": "off"
     }
-  }
+  },
 }
