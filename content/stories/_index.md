@@ -4,4 +4,4 @@ params:
   rssTitle: 'Jonathan Beebe’s Stories'
 ---
 
-*I write flash fiction (short stories of 1,000 words or less), along with the occasional poem. If you enjoyed any of these drop me a line and let me know — I would love to hear your feedback.*
+*I enjoy writing short stories, mostly flash fiction of less than 1,000 words, along with the occasional poem. While fictional, there is an autobiographical nature to my writing. I draw from my past and my interiority. I often use writing as a way to explore ideas I am wrestling with or situations I am growing through.*

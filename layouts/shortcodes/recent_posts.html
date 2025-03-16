@@ -1,0 +1,13 @@
+{{- range (
+  where (
+    where site.RegularPages "Section" "posts"
+  ) "Params.skipHome" "ne" true | first 3
+) }}
+  <article>
+    <h2 class="dateline">
+      {{ time.Format "January 2, 2006" .Date }}
+    </h2>
+    <p class="headline"><a href="{{ .Permalink | safeURL }}">{{ .Title }}</a></p>
+    {{ .Content}}
+  </article>
+{{ end }}

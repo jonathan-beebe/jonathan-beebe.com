@@ -1,0 +1,11 @@
+<ul>
+{{- range (
+  where (
+    where site.RegularPages "Section" "posts"
+  ) "Params.skipHome" "ne" true | first 3
+) }}
+    <li>
+      <a href="{{ .Permalink  | safeURL }}">{{ .Title }}</a>
+    </li>
+{{ end }}
+</ul>

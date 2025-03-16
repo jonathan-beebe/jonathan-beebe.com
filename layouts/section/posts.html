@@ -1,10 +1,11 @@
 {{ define "main" }}
 <div class="list posts">
   <h1>
-    Posts {{ with .OutputFormats.Get "rss" -}}
-    <small>(<a class="decorate" href="{{ .Permalink | safeURL }}">rss</a>)</small>
-    {{ end }}
+    Posts
   </h1>
+  {{ with .OutputFormats.Get "rss" -}}
+    <small>Subscribe to the <a class="decorate" href="{{ .Permalink | safeURL }}">rss feed here.</a></small>
+  {{ end }}
   {{ range .Pages }}
   <p>
     <a href="{{ .Permalink | safeURL }}">{{ .Title }}</a>
