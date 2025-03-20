@@ -120,6 +120,8 @@ First, it is helpful to have a definition of terms. These terms are often thrown
 [The Authoritarian Regime Survival Guide](https://verfassungsblog.de/the-authoritarian-regime-survival-guide/)
 : Originally published in 2017 as a series of social media posts, compiled here at this page, signed *—With love, your Eastern European friends*.
 
+Professor and authoritarianism scholar Ruth Ben-Ghiat [answers questions about dictators and fascism](https://youtu.be/vK6fALsenmw).
+
 ---
 
 ## Christianity’s Role
