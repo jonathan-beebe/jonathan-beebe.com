@@ -227,6 +227,30 @@ small {
   padding: 0;
 }
 
+.stories * {
+  display: block;
+}
+
+.stories > section > section,
+.stories > section > section > section
+{
+  margin-left: 1.6em;
+}
+
+@media only screen and (max-width: 432pt) {
+  .stories > section > section,
+  .stories > section > section > section
+  {
+    margin-left: 0.8em;
+  }
+}
+
+.stories hr.ornament {
+  border: none;
+  height: 0.1em;
+  background-color: rgba(157, 117, 92, 0.8);
+}
+
 .stories {
   font-family: "IowanOldSt OSF BT Roman";
   font-weight: 400;
@@ -242,9 +266,27 @@ small {
   margin-bottom: 0.3em;
 }
 
+.stories i,
 .stories em {
-  font-size: 0.7em;
+  font-family: "Iowan Old Style W01 Italic";
+  font-size: 0.8em;
   color: var(--light-text-color);
+}
+
+.stories strong {
+  font-family: "IowanOldSt Blk BT Black";
+}
+
+.stories blockquote {
+}
+
+.stories blockquote * {
+  display: inline-block;
+}
+
+.stories blockquote :first-child {
+  margin-top: 0;
+  padding-top: 0;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -257,12 +299,27 @@ small {
   font-family: "IowanOldSt OSF BT Roman";
   font-weight: 400;
   font-style: normal;
-  font-size: 12pt;
   line-height: 1.3;
 }
 
+.story .text strong {
+  font-family: "IowanOldSt Blk BT Black";
+}
+
+.story .text em {
+  font-family: "Iowan Old Style W01 Italic";
+}
+
+.story .text blockquote p {
+  margin: 1em 0;
+}
+
+.story .text blockquote ol {
+  padding-left: 1em;
+}
+
 .poem .text {
-  font-style: italic;
+  font-family: "Iowan Old Style W01 Italic";
 }
 
 .story .series-nav {
@@ -322,37 +379,6 @@ small {
 
 .stories > h1 {
   margin-bottom: 1.3em;
-}
-
-.stories * {
-  display: block;
-}
-
-.stories > section > section,
-.stories > section > section > section
-{
-  margin-left: 1.6em;
-}
-
-@media only screen and (max-width: 432pt) {
-  .stories > section > section,
-  .stories > section > section > section
-  {
-    margin-left: 0.8em;
-  }
-}
-
-.stories i {
-  font-family: "Iowan Old Style W01 Italic";
-  font-size: 0.8em;
-  font-style: italic;
-  margin: 0.5em 0 0 0;
-}
-
-.stories hr.ornament {
-  border: none;
-  height: 0.1em;
-  background-color: rgba(157, 117, 92, 0.8);
 }
 
 nav ul {
