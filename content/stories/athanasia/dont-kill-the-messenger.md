@@ -8,8 +8,6 @@ params:
 
 I can see my reflection in the glossy smears of fresh blood. But I hate it, my reflection. Wiping off the knife, the blood is gone, but my reflection is still there in the cold, polished metal. I can wipe away the evidence of my crime. But I can't erase the injustice echoing back at me in every reflection I see, in every face I pass that dares to make eye contact; I see it in their reactions.
 
-I pause just long enough to observe my reflection in the droplets of blood. Slowly I wiped off the knife, forcing my reflection out of existence. But it was still there in the cold polished metal. I can erase the evidence of my crime. But I can't erase the injustice echoing back at me in every reflection I see, in every face I pass that dares to make eye contact; I see it in their reactions. 
-
 Confirmation. I am right. I am just. 
 
 Immortality is not permanent. 
