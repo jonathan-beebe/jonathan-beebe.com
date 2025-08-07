@@ -7,7 +7,7 @@ tags:
   - ai
 ---
 
-As [originally coined](https://c2.com/doc/oopsla92.html) by Ward Cunningham, the phrase “tech debt” is an intentional strategy allowing a team to accumulate knowledge about the problem being solved while simultaneously shipping value every day. It is a strategy for remaining un-stuck. It is an acknowledgement that tomorrow you will be wiser than today. It is a strategy for applying today’s hard earned learnings to yesterday’s immature code. It is a positive feedback loop. It is a strategy for iterative development. It defines a way of working that allows a team and a business to constantly ship and constantly learn. It is a strategy used by professionals to deliver customer value early and often. Tech debt is an analogy for a process for making “incremental growth both feasible and desirable”.
+As [originally coined](https://c2.com/doc/oopsla92.html) by Ward Cunningham, the phrase "tech debt" is an analogy for a process for making "incremental growth both feasible and desirable". It is an intentional strategy allowing a team to accumulate knowledge about the problem being solved while simultaneously shipping value every day. It is a strategy for remaining un-stuck. It is an acknowledgement that tomorrow you will be wiser than today. It is a strategy for applying today's hard earned learnings to yesterday's immature code. It is a positive feedback loop, a map for iterative development. It defines a way of working that allows a team and a business to constantly ship and constantly learn. It is a strategy used by professionals to deliver customer value early and often.
 
 Tech debt is not sloppy code.  
 Tech debt is not hastily written code.  
