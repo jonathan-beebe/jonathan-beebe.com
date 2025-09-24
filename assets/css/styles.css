@@ -102,6 +102,7 @@ a {
 a:link {
   color: inherit;
 }
+a[aria-current="page"],
 a:active {
   color: inherit;
 }
@@ -111,6 +112,7 @@ a:visited {
 a:hover {
   color: inherit;
 }
+a[aria-current="page"],
 a.active {
   text-decoration: underline;
   text-decoration-thickness: 0.18em;
@@ -183,6 +185,7 @@ small {
   }
 }
 
+main,
 .home,
 .list,
 .post,
@@ -215,11 +218,6 @@ small {
   .dateline {
     color: var(--light-text-color-dark);
   }
-}
-
-.home article {
-  margin: 2em 0 10em 0;
-  font-size: 0.8em;
 }
 
 .home .headline {

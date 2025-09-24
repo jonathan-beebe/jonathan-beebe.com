@@ -2,11 +2,10 @@
 <nav>
   <ul>
     {{ range .Site.Menus.main }}
-      {{ $aclass := "" }}
-      {{ if $currentPage.IsMenuCurrent "main" . }} {{ $aclass = "active"}} {{ end }}
-      {{ if $currentPage.HasMenuCurrent .Menu . }}  {{ $aclass = "active"}} {{ end }}
-
-      <li><a class="{{ $aclass }}" href="{{ .URL }}">{{ .Name }}</a></li>
+      {{ $current := false }}
+      {{ if $currentPage.IsMenuCurrent "main" . }} {{ $current = true}} {{ end }}
+      {{ if $currentPage.HasMenuCurrent .Menu . }} {{ $current = true}} {{ end }}
+      <li><a {{ with $current }}aria-current="page" {{ end }} href="{{ .URL }}">{{ .Name }}</a></li>
     {{ end }}
   </ul>
 </nav>
