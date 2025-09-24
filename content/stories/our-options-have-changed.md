@@ -1,7 +1,6 @@
 ---
 title: Our Options Have Changed
 date: '2023-12-01'
-layout: story
 params:
   summary: A flash-fiction short story about life’s consequences.
 ---

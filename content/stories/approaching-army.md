@@ -1,6 +1,6 @@
 ---
 title: Approaching Army
-layout: story
+# layout: story
 date: '2023-12-15'
 ---
 

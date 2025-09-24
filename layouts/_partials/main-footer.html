@@ -1,0 +1,13 @@
+{{ $currentPage := . }}
+<footer>
+  <nav>
+    <ul>
+      {{ range .Site.Menus.footer }}
+      <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+      {{ end }}
+    </ul>
+  </nav>
+  <div>
+    <small>&copy; 2025 Jonathan Beebe</small>
+  </div>
+</footer>

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>{{ block "title" . }}
+    {{ .Site.Title }}
+    {{ end }}
+  </title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {{ $rcssOpts := (dict "targetPath" "css/reset.css") }}
+  {{ $cssOpts := (dict "targetPath" "css/styles.css" ) }}
+
+  {{ if hugo.IsServer }}
+    {{ $rcssOpts := (dict "targetPath" "css/reset.css" "enableSourceMap" true ) }}
+    {{ $cssOpts := (dict "targetPath" "css/styles.css" "enableSourceMap" true ) }}
+  {{ end }}
+
+  {{ $rcssOpts := (dict "targetPath" "css/reset.css") }}
+  {{ $rstyles := resources.Get "css/reset.css" | toCSS $rcssOpts }}
+  {{ $cssOpts := (dict "targetPath" "css/styles.css" ) }}
+  {{ $styles := resources.Get "css/styles.css" | toCSS $cssOpts }}
+
+  {{ with $rstyles | fingerprint "sha256" }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"  media="screen">
+  {{ end }}
+
+  {{ with $styles | fingerprint "sha256" }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" media="screen">
+  {{ end }}
+
+  {{ $storiesCssOpts := (dict "targetPath" "css/stories.css" ) }}
+  {{ $storiesStyles := resources.Get "css/stories.css" | toCSS $storiesCssOpts }}
+  {{ with $storiesStyles | fingerprint "sha256" }}
+    {{ if eq $.Section "stories" }}
+      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" media="screen">
+    {{ end }}
+  {{ end }}
+
+  {{ $rssTitle := $.Title}}
+  {{ if ($.Params.rssTitle) }}
+    {{ $rssTitle = $.Params.rssTitle }}
+  {{ end }}
+  {{ with .OutputFormats.Get "rss" -}}
+    {{ printf `<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink $rssTitle | safeHTML }}
+  {{ end }}
+
+</head>
+
+<body>
+  {{ partial "main-menu.html" . }}
+  {{ block "main" . }}
+  {{ end }}
+  {{ block "footer" . }}
+  {{ partial "main-footer.html" . }}
+  {{ end }}
+</body>
+
+</html>

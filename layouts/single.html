@@ -2,9 +2,9 @@
   {{ .Title }} &ndash; {{ .Site.Title }}
 {{ end }}
 {{ define "main" }}
-  <div class="post">
+  <main>
     <h1>{{ .Title }}</h1>
-    <small class="dateline">Published {{ .Date.Format "2006-01-02" }}</small>
+    <time>Published {{ .Date.Format "2006-01-02" }}</time>
     {{ .Content }}
-  </div>
+  </main>
 {{ end }}

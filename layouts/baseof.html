@@ -31,6 +31,14 @@
   <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" media="screen">
   {{ end }}
 
+  {{ $storiesCssOpts := (dict "targetPath" "css/stories.css" ) }}
+  {{ $storiesStyles := resources.Get "css/stories.css" | toCSS $storiesCssOpts }}
+  {{ with $storiesStyles | fingerprint "sha256" }}
+    {{ if eq $.Section "stories" }}
+      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" media="screen">
+    {{ end }}
+  {{ end }}
+
   {{ $rssTitle := $.Title}}
   {{ if ($.Params.rssTitle) }}
     {{ $rssTitle = $.Params.rssTitle }}
@@ -42,16 +50,11 @@
 </head>
 
 <body>
-  <!-- Code that all your templates share, like a header -->
   {{ partial "main-menu.html" . }}
-  <section>
   {{ block "main" . }}
-  <!-- The part of the page that begins to differ between templates -->
   {{ end }}
-  </section>
   {{ block "footer" . }}
   {{ partial "main-footer.html" . }}
-  <!-- More shared code, perhaps a footer but that can be overridden if need be in  -->
   {{ end }}
 </body>
 

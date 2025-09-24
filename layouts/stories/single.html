@@ -1,13 +1,11 @@
 {{ define "main" }}
-  <div class="story">
-    <div class="text">
-      {{ if .Parent.Params.isSeries}}
-        <h1>{{ .Parent.Title }}<br>—<br>{{ .Title }}</h1>
-      {{ end }}
-      {{ .Content }}
-    </div>
+  <main>
+    {{ if .Parent.IsSection}}
+      <h1>{{ .Parent.Title }}<br>—<br>{{ .Title }}</h1>
+    {{ end }}
+    {{ .Content }}
 
-    {{ if .Parent.Params.isSeries}}
+    {{ if .Parent.IsSection}}
     {{ $pages := .CurrentSection.Pages.ByWeight }}
 
     <nav class="series-nav">
@@ -25,5 +23,5 @@
     </nav>
     {{ end }}
 
-  </div>
+  </main>
 {{ end }}

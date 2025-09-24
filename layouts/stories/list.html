@@ -1,0 +1,45 @@
+{{ define "main" }}
+  <main>
+    <h1>{{ .Params.alt_title | default .Title }}</h1>
+
+    {{ with .Params.Summary }}
+      <small><em>{{ . }}</em></small>
+    {{ end }}
+
+    {{ .Content }}
+  
+    <hr>
+
+    {{ range .Pages }}
+      {{ if .IsSection }}
+      {{ else }}
+        <p>
+          <a class="title" href="{{ .Permalink | safeURL }}">{{ .Title }}</a>
+          {{ with .Params.Summary }}
+          <small><em>{{ . }}</em></small>
+          {{ end }}
+        </p>
+      {{ end }}
+    {{ end }}
+
+    {{ range .Pages }}
+      {{ if .IsSection }}
+        <hr>
+        {{ $sectionTitle := .Title }} 
+          <h2><a href="{{ .Permalink | safeURL }}">{{ .Title }}</a></h2>
+          {{ with .Params.Summary }}
+            <small><em>{{ . }}</em></small>
+          {{ end }}
+            {{ range .Pages.Reverse}}
+              <p>
+                <a class="title" href="{{ .Permalink | safeURL }}">{{ .Title }}</a>
+                {{ with .Params.Summary }}
+                <small><em>{{ . }}</em></small>
+                {{ end }}
+              </p>
+            {{ end }} 
+      {{ end }}
+    {{ end }}
+
+  </main>
+{{ end }}
