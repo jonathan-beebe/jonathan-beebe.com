@@ -5,7 +5,7 @@
   ) "Params.skipHome" "ne" true | first 3
 ) }}
     <li>
-      <a href="{{ .Permalink  | safeURL }}">{{ .Title }}</a>
+      <a href="{{ .Permalink  | safeURL }}">{{ .Title }}</a> <time>{{ time.Format "January 2, 2006" .Date }}</time>
     </li>
 {{ end }}
 </ul>

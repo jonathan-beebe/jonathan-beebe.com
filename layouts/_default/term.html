@@ -1,5 +1,5 @@
 {{ define "main" }}
-  <div class="list term">
+  <main>
     <h1><a href="{{ .Parent.RelPermalink }}">{{ .Data.Plural }}</a> » {{ .Title }}</h1>
     {{ .Content }}
     <ul>
@@ -7,5 +7,5 @@
       <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
     {{ end }}
     </ul>
-  </div>
+  </main>
 {{ end }}

@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div class="list posts">
+<main>
   <h1>
     Posts
   </h1>
@@ -9,8 +9,8 @@
   {{ range .Pages }}
   <p>
     <a href="{{ .Permalink | safeURL }}">{{ .Title }}</a>
-    <small class="dateline">{{ .Date.Format "2006-01-02" }}</small>
+    <time>{{ .Date.Format "2006-01-02" }}</time>
   </p>
   {{ end }}
-</div>
+</main>
 {{ end }}

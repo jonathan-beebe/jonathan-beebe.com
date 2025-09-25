@@ -132,8 +132,7 @@ main,
   }
 }
 
-time,
-.dateline {
+time {
   text-transform: uppercase;
   font-size: 0.7em;
   font-weight: 300;
@@ -144,7 +143,7 @@ time,
 }
 
 @media (prefers-color-scheme: dark) {
-  .dateline {
+  time {
     color: var(--light-text-color-dark);
   }
 }
