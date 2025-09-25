@@ -1,10 +1,10 @@
 {{ define "main" }}
   {{ $seriesTitle := .Title }}
-  <div class="list stories">
+  <main>
       <section class="series-title">
         <h1>{{ $seriesTitle }}</h1>
         {{ with .Params.Summary }}
-          <em>{{ . }}</em>
+          <small><em>{{ . }}</em></small>
         {{ end }}
       </section>
       {{ .Content }}
@@ -14,10 +14,10 @@
           <p>
             <a class="title" href="{{ .Permalink | safeURL }}">{{ .Title }}</a>
             {{ with .Params.Summary }}
-            <em>{{ . }}</em>
+            <small><em>{{ . }}</em></small>
             {{ end }}
           </p>
         {{ end }} 
       </section>
-  </div>
+  </main>
 {{ end }}

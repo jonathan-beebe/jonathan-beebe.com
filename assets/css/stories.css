@@ -153,6 +153,12 @@ blockquote :first-child {
   padding-top: 0;
 }
 
+blockquote em {
+  font-size: 0.8em;
+  color: var(--light-text-color);
+  font-family: "Iowan Old Style W01 Italic";
+}
+
 @media (prefers-color-scheme: dark) {
   em {
     /* color: var(--light-text-color); */
@@ -191,21 +197,21 @@ article blockquote ol,
   font-family: "Iowan Old Style W01 Italic";
 }
 
-.story .series-nav {
+.series-nav {
   display: flex;
   text-align: center;
 }
 
-.story .series-nav a {
+.series-nav a {
   text-decoration: none;
 }
 
-.story .series-nav .series-left,
-.story .series-nav .series-right {
+.series-nav .series-left,
+.series-nav .series-right {
   flex-shrink: 1;
 }
 
-.story .series-nav .series-parent {
+.series-nav .series-parent {
   flex-grow: 1;
 }
 
