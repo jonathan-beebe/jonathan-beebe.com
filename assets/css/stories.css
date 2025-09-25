@@ -1,0 +1,222 @@
+
+@font-face {
+  font-family: "IowanOldSt OSF BT Roman";
+  src: url("../fonts/IowanOldSt-OSF-BT-Roman/1e7b25c83a23600d1ab17ef5d3af3402.eot");
+  src: url("../fonts/IowanOldSt-OSF-BT-Roman/1e7b25c83a23600d1ab17ef5d3af3402.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/IowanOldSt-OSF-BT-Roman/1e7b25c83a23600d1ab17ef5d3af3402.woff")
+      format("woff"),
+    url("../fonts/IowanOldSt-OSF-BT-Roman/1e7b25c83a23600d1ab17ef5d3af3402.woff2")
+      format("woff2"),
+    url("../fonts/IowanOldSt-OSF-BT-Roman/1e7b25c83a23600d1ab17ef5d3af3402.ttf")
+      format("truetype"),
+    url("../fonts/IowanOldSt-OSF-BT-Roman/1e7b25c83a23600d1ab17ef5d3af3402.svg#IowanOldSt OSF BT Roman")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IowanOldSt Blk BT Black";
+  src: url("../fonts/IowanOldSt-Blk-BT-Black/caacd291335e6013fb4f648efee67da7.eot");
+  src: url("../fonts/IowanOldSt-Blk-BT-Black/caacd291335e6013fb4f648efee67da7.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/IowanOldSt-Blk-BT-Black/caacd291335e6013fb4f648efee67da7.woff")
+      format("woff"),
+    url("../fonts/IowanOldSt-Blk-BT-Black/caacd291335e6013fb4f648efee67da7.woff2")
+      format("woff2"),
+    url("../fonts/IowanOldSt-Blk-BT-Black/caacd291335e6013fb4f648efee67da7.ttf")
+      format("truetype"),
+    url("../fonts/IowanOldSt-Blk-BT-Black/caacd291335e6013fb4f648efee67da7.svg#IowanOldSt Blk BT Black")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Iowan Old Style W01 Bold";
+  src: url("../fonts/Iowan-Old-Style-W01-Bold/6bdbc98de74280c5c53856ee86f193b9.eot");
+  src: url("../fonts/Iowan-Old-Style-W01-Bold/6bdbc98de74280c5c53856ee86f193b9.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/Iowan-Old-Style-W01-Bold/6bdbc98de74280c5c53856ee86f193b9.woff")
+      format("woff"),
+    url("../fonts/Iowan-Old-Style-W01-Bold/6bdbc98de74280c5c53856ee86f193b9.woff2")
+      format("woff2"),
+    url("../fonts/Iowan-Old-Style-W01-Bold/6bdbc98de74280c5c53856ee86f193b9.ttf")
+      format("truetype"),
+    url("../fonts/Iowan-Old-Style-W01-Bold/6bdbc98de74280c5c53856ee86f193b9.svg#Iowan Old Style W01 Bold")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Iowan Old Style W01 Italic";
+  src: url("../fonts/Iowan-Old-Style-W01-Italic/376b17e388b936ed3e979f8ce56ad913.eot");
+  src: url("../fonts/Iowan-Old-Style-W01-Italic/376b17e388b936ed3e979f8ce56ad913.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/Iowan-Old-Style-W01-Italic/376b17e388b936ed3e979f8ce56ad913.woff")
+      format("woff"),
+    url("../fonts/Iowan-Old-Style-W01-Italic/376b17e388b936ed3e979f8ce56ad913.woff2")
+      format("woff2"),
+    url("../fonts/Iowan-Old-Style-W01-Italic/376b17e388b936ed3e979f8ce56ad913.ttf")
+      format("truetype"),
+    url("../fonts/Iowan-Old-Style-W01-Italic/376b17e388b936ed3e979f8ce56ad913.svg#Iowan Old Style W01 Bold")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+main > section > section,
+main > section > section > section
+{
+  margin-left: 1.6em;
+}
+
+@media only screen and (max-width: 432pt) {
+  main > section > section,
+  main > section > section > section
+  {
+    margin-left: 0.8em;
+  }
+}
+
+main hr.ornament {
+  border: none;
+  height: 0.1em;
+  background-color: rgba(157, 117, 92, 0.8);
+}
+
+main {
+  font-family: "IowanOldSt OSF BT Roman";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14pt;
+  line-height: 1.3;
+}
+
+h1,
+h2,
+h3,
+.title {
+  margin-bottom: 0.3em;
+}
+
+i,
+em {
+  font-family: "Iowan Old Style W01 Italic";
+  /* font-size: 0.8em; */
+  /* color: var(--light-text-color); */
+}
+
+strong {
+  font-family: "IowanOldSt Blk BT Black";
+}
+
+blockquote {
+}
+
+blockquote * {
+  display: inline-block;
+}
+
+blockquote :first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+@media (prefers-color-scheme: dark) {
+  em {
+    /* color: var(--light-text-color); */
+  }
+}
+
+.story .text {
+  font-family: "IowanOldSt OSF BT Roman";
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.3;
+}
+
+.story .text strong {
+  font-family: "IowanOldSt Blk BT Black";
+}
+
+.story .text em {
+  font-family: "Iowan Old Style W01 Italic";
+}
+
+.story .text blockquote p {
+  margin: 1em 0;
+}
+
+.story .text blockquote ol {
+  padding-left: 1em;
+}
+
+.poem .text {
+  font-family: "Iowan Old Style W01 Italic";
+}
+
+.story .series-nav {
+  display: flex;
+  text-align: center;
+}
+
+.story .series-nav a {
+  text-decoration: none;
+}
+
+.story .series-nav .series-left,
+.story .series-nav .series-right {
+  flex-shrink: 1;
+}
+
+.story .series-nav .series-parent {
+  flex-grow: 1;
+}
+
+h1,
+.story h1 {
+  font-family: "Iowan Old Style W01 Bold";
+  text-transform: uppercase;
+
+  font-size: 1.8em;
+  font-weight: 500;
+  font-style: normal;
+  text-align: center;
+
+  margin: 1.8em 0;
+}
+
+.poem h1 {
+  font-family: "Iowan Old Style W01 Italic";
+  text-transform: none;
+  text-align: left;
+}
+
+.series-title {
+  text-align: center;
+}
+
+.series-title h1 {
+  text-wrap: balance;
+  margin-bottom: 0.3em;
+}
+
+.series-title em {
+  text-wrap: balance;
+}
+
+.story p {
+  margin: 1.6em 0;
+  line-height: 1.6em;
+}
+
+main > h1 {
+  margin-bottom: 1.3em;
+}

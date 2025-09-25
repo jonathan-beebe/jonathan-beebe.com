@@ -1,5 +1,5 @@
 {{ define "main" }}
-  <div class="story">
+  <main class="story">
     <div class="text">
       {{ if .Parent.Params.isSeries}}
         <h1>{{ .Parent.Title }}<br>—<br>{{ .Title }}</h1>
@@ -25,5 +25,5 @@
     </nav>
     {{ end }}
 
-  </div>
+  </main>
 {{ end }}

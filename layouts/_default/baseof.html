@@ -31,6 +31,14 @@
   <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" media="screen">
   {{ end }}
 
+  {{ $storiesCssOpts := (dict "targetPath" "css/stories.css" ) }}
+  {{ $storiesStyles := resources.Get "css/stories.css" | toCSS $storiesCssOpts }}
+  {{ with $storiesStyles | fingerprint "sha256" }}
+    {{ if eq $.Section "stories" }}
+      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" media="screen">
+    {{ end }}
+  {{ end }}
+
   {{ $rssTitle := $.Title}}
   {{ if ($.Params.rssTitle) }}
     {{ $rssTitle = $.Params.rssTitle }}
