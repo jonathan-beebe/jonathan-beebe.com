@@ -1,11 +1,11 @@
 {{ define "main" }}
-  <main class="story">
-    <div class="text">
+  <main>
+    <article>
       {{ if .Parent.Params.isSeries}}
         <h1>{{ .Parent.Title }}<br>—<br>{{ .Title }}</h1>
       {{ end }}
       {{ .Content }}
-    </div>
+    </article>
 
     {{ if .Parent.Params.isSeries}}
     {{ $pages := .CurrentSection.Pages.ByWeight }}

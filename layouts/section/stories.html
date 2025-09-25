@@ -4,7 +4,7 @@
     
     {{ .Content }}
 
-    <hr class="ornament">
+    <hr>
 
     <section>
       <h2>Individual Short Stories</h2>
@@ -15,14 +15,14 @@
             <p>
               <a class="title" href="{{ .Permalink | safeURL }}">{{ .Title }}</a>
               {{ with .Params.Summary }}
-              <em>{{ . }}</em>
+              <small><em>{{ . }}</em></small>
               {{ end }}
             </p>
           {{ end }}
         {{ end }}
       </section>
 
-      <hr class="ornament">
+      <hr>
 
       <h2>Collections</h2>
       {{ range .Pages }}
@@ -31,14 +31,14 @@
           <section>
             <h3><a href="{{ .Permalink | safeURL }}">{{ .Title }}</a></h3>
             {{ with .Params.Summary }}
-              <em>{{ . }}</em>
+              <small><em>{{ . }}</em></small>
             {{ end }}
             <section>
               {{ range .Pages.Reverse}}
                 <p>
                   <a class="title" href="{{ .Permalink | safeURL }}">{{ .Title }}</a>
                   {{ with .Params.Summary }}
-                  <em>{{ . }}</em>
+                  <small><em>{{ . }}</em></small>
                   {{ end }}
                 </p>
               {{ end }} 
