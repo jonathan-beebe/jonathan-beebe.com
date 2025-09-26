@@ -155,7 +155,7 @@ blockquote :first-child {
 
 blockquote em {
   font-size: 0.8em;
-  color: var(--light-text-color);
+  /* color: var(--light-text-color); */
   font-family: "Iowan Old Style W01 Italic";
 }
 
