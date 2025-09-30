@@ -1,8 +1,6 @@
 ---
 title: Athanasia
-layout: series
 params:
-  isSeries: true
   summary: This is a series about a time when humanity finally achieves immortality.
 ---
 

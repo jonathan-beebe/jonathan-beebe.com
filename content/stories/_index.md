@@ -1,6 +1,7 @@
 ---
 title: 'Stories'
 params:
+  alt_title: 'Short Stories & Poems'
   rssTitle: 'Jonathan Beebe’s Stories'
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Beautifully Macabre
 date: '2023-12-29'
-layout: story
 params:
   summary: A circular short story (of 920 words).
 ---

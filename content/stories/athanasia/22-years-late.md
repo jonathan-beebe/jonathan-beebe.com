@@ -1,7 +1,6 @@
 ---
 title: 22 Years late
 date: '2025-02-09'
-layout: story
 params:
   summary: A package sits on my doorstep. 22 years late. No apology. No explanation . . . F#@k. Now what?
 ---

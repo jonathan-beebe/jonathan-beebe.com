@@ -1,52 +1,45 @@
 {{ define "main" }}
   <main>
-    <h1>Short Stories & Poems</h1>
-    
-    {{ .Content }}
+    <h1>{{ .Params.alt_title | default .Title }}</h1>
 
+    {{ with .Params.Summary }}
+      <small><em>{{ . }}</em></small>
+    {{ end }}
+
+    {{ .Content }}
+  
     <hr>
 
-    <section>
-      <h2>Individual Short Stories</h2>
-      <section>
-        {{ range .Pages }}
-          {{ if .IsSection }}
-          {{ else }}
-            <p>
-              <a class="title" href="{{ .Permalink | safeURL }}">{{ .Title }}</a>
-              {{ with .Params.Summary }}
-              <small><em>{{ . }}</em></small>
-              {{ end }}
-            </p>
+    {{ range .Pages }}
+      {{ if .IsSection }}
+      {{ else }}
+        <p>
+          <a class="title" href="{{ .Permalink | safeURL }}">{{ .Title }}</a>
+          {{ with .Params.Summary }}
+          <small><em>{{ . }}</em></small>
           {{ end }}
-        {{ end }}
-      </section>
-
-      <hr>
-
-      <h2>Collections</h2>
-      {{ range .Pages }}
-        {{ if .IsSection }}
-          {{ $sectionTitle := .Title }} 
-          <section>
-            <h3><a href="{{ .Permalink | safeURL }}">{{ .Title }}</a></h3>
-            {{ with .Params.Summary }}
-              <small><em>{{ . }}</em></small>
-            {{ end }}
-            <section>
-              {{ range .Pages.Reverse}}
-                <p>
-                  <a class="title" href="{{ .Permalink | safeURL }}">{{ .Title }}</a>
-                  {{ with .Params.Summary }}
-                  <small><em>{{ . }}</em></small>
-                  {{ end }}
-                </p>
-              {{ end }} 
-            </section>
-          </section>
-        {{ end }}
+        </p>
       {{ end }}
+    {{ end }}
 
-    </section>
+    {{ range .Pages }}
+      {{ if .IsSection }}
+        <hr>
+        {{ $sectionTitle := .Title }} 
+          <h2><a href="{{ .Permalink | safeURL }}">{{ .Title }}</a></h2>
+          {{ with .Params.Summary }}
+            <small><em>{{ . }}</em></small>
+          {{ end }}
+            {{ range .Pages.Reverse}}
+              <p>
+                <a class="title" href="{{ .Permalink | safeURL }}">{{ .Title }}</a>
+                {{ with .Params.Summary }}
+                <small><em>{{ . }}</em></small>
+                {{ end }}
+              </p>
+            {{ end }} 
+      {{ end }}
+    {{ end }}
+
   </main>
 {{ end }}

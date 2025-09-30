@@ -104,7 +104,7 @@ main {
   font-weight: 400;
   font-style: normal;
   font-size: 14pt;
-  line-height: 1.3;
+  line-height: 1.6;
 }
 
 main h1,
@@ -124,6 +124,10 @@ h1,
 h2,
 h3 {
   margin-bottom: 0.3em;
+}
+
+p {
+  margin: 1.6em 0;
 }
 
 small {
@@ -154,7 +158,7 @@ blockquote :first-child {
 }
 
 blockquote em {
-  font-size: 0.8em;
+  /* font-size: 0.8em; */
   /* color: var(--light-text-color); */
   font-family: "Iowan Old Style W01 Italic";
 }
