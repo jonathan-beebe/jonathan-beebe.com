@@ -1,0 +1,1 @@
+rm -rf public && rm -rf resources && hugo --minify
