@@ -1,5 +1,5 @@
 ---
-title: Isn’t It Beautiful, Mommy?
+title: Isn’t It Pretty, Mommy?
 date: '2026-08-21'
 params:
   summary: We all experience a sense of awe and wonder upon seeing a shooting star. Today, let me tell you a story from the star’s point of view. 
