@@ -19,9 +19,9 @@
   {{ end }}
 
   {{ $rcssOpts := (dict "targetPath" "css/reset.css") }}
-  {{ $rstyles := resources.Get "css/reset.css" | toCSS $rcssOpts }}
+  {{ $rstyles := resources.Get "css/reset.css" | css.Sass $rcssOpts }}
   {{ $cssOpts := (dict "targetPath" "css/styles.css" ) }}
-  {{ $styles := resources.Get "css/styles.css" | toCSS $cssOpts }}
+  {{ $styles := resources.Get "css/styles.css" | css.Sass $cssOpts }}
 
   {{ with $rstyles | fingerprint "sha256" }}
   <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"  media="screen">
@@ -32,7 +32,7 @@
   {{ end }}
 
   {{ $storiesCssOpts := (dict "targetPath" "css/stories.css" ) }}
-  {{ $storiesStyles := resources.Get "css/stories.css" | toCSS $storiesCssOpts }}
+  {{ $storiesStyles := resources.Get "css/stories.css" | css.Sass $storiesCssOpts }}
   {{ with $storiesStyles | fingerprint "sha256" }}
     {{ if eq $.Section "stories" }}
       <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" media="screen">
