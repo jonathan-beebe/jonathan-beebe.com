@@ -1,5 +1,5 @@
 baseURL = 'https://jonathan-beebe.com/'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'The personal site of Jonathan Beebe'
 sectionPagesMenu = "main"
 enableRobotsTXT = true
