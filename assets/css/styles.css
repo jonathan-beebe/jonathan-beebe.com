@@ -126,6 +126,16 @@ main,
   max-width: 430pt;
 }
 
+@media (max-width: 600px) {
+  main,
+  .home,
+  .list,
+  .post,
+  .story {
+    padding-inline: 1.25em;
+  }
+}
+
 @media (prefers-color-scheme: dark) {
   .story {
     text-shadow: none;
