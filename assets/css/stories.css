@@ -112,11 +112,6 @@ main > section > section > section
 
 
 
-.poem {
-  font-family: "Iowan Old Style";
-  font-synthesis: none;
-}
-
 .poem .text {
   font-style: italic;
 }

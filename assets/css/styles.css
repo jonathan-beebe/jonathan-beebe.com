@@ -116,8 +116,7 @@ small {
 main,
 .home,
 .list,
-.post,
-.story {
+.post {
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
@@ -130,15 +129,8 @@ main,
   main,
   .home,
   .list,
-  .post,
-  .story {
+  .post {
     padding-inline: 1.25em;
-  }
-}
-
-@media (prefers-color-scheme: dark) {
-  .story {
-    text-shadow: none;
   }
 }
 

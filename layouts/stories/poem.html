@@ -1,9 +1,9 @@
 {{ define "title" }}{{ .Title }} &ndash; A poem by {{ .Site.Params.author.name }}{{ end }}
 {{ define "main" }}
-  <div class="story poem">
+  <main class="poem">
     <div class="text">
       <h1>{{ .Title }}</h1>
       {{ .Content }}
     </div>
-  </div>
+  </main>
 {{ end }}
