@@ -14,4 +14,4 @@ This site uses no JavaScript and collects no metrics. I have no idea what my pag
 
 ### Design
 
-The design of this site is simple and minimalistic. For most pages the default font is the system font of your device’s operating system. The one exception is the [stories collection]({{< ref "/stories" >}}), where I chose an [Iowan Old Style book font from Online Web Fonts](https://www.onlinewebfonts.com/download/1e7b25c83a23600d1ab17ef5d3af3402).
+The design of this site is simple and minimalistic. For most pages the default font is the system font of your device’s operating system. The one exception is the [stories collection]({{< relref "/stories" >}}), where I chose an [Iowan Old Style book font from Online Web Fonts](https://www.onlinewebfonts.com/download/1e7b25c83a23600d1ab17ef5d3af3402).

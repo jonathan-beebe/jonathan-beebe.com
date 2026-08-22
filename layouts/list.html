@@ -4,11 +4,11 @@
     {{ .Title }}
   </h1>
   {{ with .OutputFormats.Get "rss" -}}
-    <small>Subscribe to the <a class="decorate" href="{{ .Permalink | safeURL }}">rss feed here</a>.</small>
+    <small>Subscribe to the <a class="decorate" href="{{ .RelPermalink }}">rss feed here</a>.</small>
   {{ end }}
   {{ range .Pages }}
   <p>
-    <a href="{{ .Permalink | safeURL }}">{{ .Title }}</a>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
     <time>{{ .Date.Format "2006-01-02" }}</time>
   </p>
   {{ end }}
