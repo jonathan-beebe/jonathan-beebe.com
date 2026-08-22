@@ -34,19 +34,19 @@ The Quality Without a Name, an essay by Richard P. Gabriel found on page 33 of h
 
 Standing at the opposite end of the spectrum to Richard’s essay, this article gives a name to the lack-of-quality that none of us wants to live with: a big ball of mud. It explores the forces that cause us to create balls of mud and then to remain stuck in the muck. It discusses the negative feedback loops that lead to ever-increasing decay. And it discusses the cure, the positive feedback loops that generate ever-refined code as our understanding of the problem evolves.
 
-[Big Ball of Mud](http://www.laputan.org/mud/mud.html) was written by Brian Foote and Joseph Yoder.
+[Big Ball of Mud](https://www.laputan.org/mud/mud.html) was written by Brian Foote and Joseph Yoder.
 
 ### 3\. No Silver Bullet
 
 This is the seminal article by Frederick P. Brooks, Jr. He explores how the thinking that goes into understanding the problem is the hard part of software, not the writing of the code. In my experience this observation holds true. Complexity comes from conceptual errors, and there is no easy way out of this conundrum. This is the hard work of software engineers.
 
-You can find the [original scan here](https://www.cs.unc.edu/techreports/86-020.pdf) and a [cleaner copy here](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf).
+You can find the [original scan here](https://www.cs.unc.edu/techreports/86-020.pdf) and a [cleaner copy here](https://worrydream.com/refs/Brooks_1986_-_No_Silver_Bullet.pdf).
 
 ### 4\. Out of the Tar Pit
 
 This paper adds to the conversation from No Silver Bullet, discussing several approaches to eliminating accidental complexity. Simplicity is hard. Complexity begets more complexity. The harder a system is to understand, the harder it will become to understand. Nevertheless, we must aim for simplicity.
 
-Out of the Tar Pit, by Ben Moseley and Peter Marks, [available as pdf here](http://curtclifton.net/papers/MoseleyMarks06a.pdf).
+Out of the Tar Pit, by Ben Moseley and Peter Marks, [available as pdf here](https://curtclifton.net/papers/MoseleyMarks06a.pdf).
 
 ### 5\. On Designing and Deploying Internet Scale Services
 
@@ -74,7 +74,7 @@ Ward Cunningham introduced the metaphor of “technical debt” in a short artic
 
 Exploring the origin of this metaphor is useful, if only to ask yourself, does your use of this idea unlock original and useful thinking, or is it a crutch suppressing your thinking. A careful reading of who the audience was, why he introduced the metaphor, and what he meant by it, reveals much about the quality of his thinking back then, and our weaker use of the metaphor today.
 
-Read [The WyCash Portfolio Management System](http://c2.com/doc/oopsla92.html) [here](http://c2.com/doc/oopsla92.html).
+Read [The WyCash Portfolio Management System](https://c2.com/doc/oopsla92.html) [here](https://c2.com/doc/oopsla92.html).
 
 ### 8\. Searching for Build Debt: Experiences Managing Technical Debt at Google
 
