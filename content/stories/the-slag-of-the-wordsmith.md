@@ -5,6 +5,8 @@ params:
   summary: A fictionalized story about what it felt like to lose faith and find myself.
 ---
 
+# The Slag of the Wordsmith
+
 All  
 he wanted  
 was a foothold,  

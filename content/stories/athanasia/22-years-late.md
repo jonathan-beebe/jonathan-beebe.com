@@ -6,6 +6,8 @@ params:
   summary: A package sits on my doorstep. 22 years late. No apology. No explanation . . . F#@k. Now what?
 ---
 
+# 22 Years Late
+
 A package sits on my doorstep. 22 years late. No apology. No explanation. A message in a bottle from my past self. But 22 years ago I hardly knew its meaning. Or its consequences. A fine wine that should have been enjoyed. Instead it soured as it languished in time. To drink of it now would be more repulsive than to abstain. A sour message for this bitter old man. 
 
 My 72-year-old hands cramp as I pick up the box. This old carcass is not worth keeping around. But it’s all I have. Because this package is late. 

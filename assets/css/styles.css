@@ -3,13 +3,12 @@
   --text-color: #261913;
   --light-text-color: #5f5f5f;
   --rule-color: rgba(157, 117, 92, 0.8);
-  --content-width: 36rem;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
     --bg-color: #000;
-    --text-color: #e8e3e1;
+    --text-color: #d9d4d2;
     --light-text-color: #9a9a9a;
   }
 }
@@ -19,8 +18,44 @@ body {
     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   background-color: var(--bg-color);
   color: var(--text-color);
-  padding-block-end: 10em;
-  font-size: 14pt;
+  margin: 0;
+  padding-block: 2em 4em;
+  font-size: 1.1667rem;
+}
+
+h1 {
+  font-size: 1.75em;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+h2 {
+  font-size: 1.35em;
+  font-weight: 600;
+}
+
+h3 {
+  font-size: 1.15em;
+  font-weight: 600;
+}
+
+h4 {
+  font-size: 1em;
+  font-weight: 600;
+}
+
+h2,
+h3,
+h4 {
+  margin-block-start: 2em;
+}
+
+:is(h1, h2, h3, h4) + :is(p, ul, ol, dl, blockquote) {
+  margin-block-start: 0.5em;
+}
+
+p {
+  text-wrap: pretty;
 }
 
 a {
@@ -65,7 +100,6 @@ blockquote {
   border-inline-start: 0.3em solid var(--light-text-color);
   padding-inline-start: 1em;
   margin-inline-start: 0;
-  font-weight: lighter;
 }
 
 hr {
@@ -91,8 +125,10 @@ dd blockquote p:first-child {
 }
 
 small {
-  font-size: 0.7em;
+  font-size: 0.85em;
   color: var(--light-text-color);
+  text-wrap: pretty;
+  hyphens: manual;
 }
 
 main {
@@ -101,7 +137,8 @@ main {
   font-style: normal;
 
   margin-inline: auto;
-  max-width: var(--content-width);
+  max-width: 32em;
+  hyphens: auto;
 }
 
 @media (max-width: 37.5rem) {
@@ -112,12 +149,15 @@ main {
 
 time {
   text-transform: uppercase;
-  font-size: 0.7em;
-  font-weight: 300;
+  font-size: 0.8em;
+  letter-spacing: 0.06em;
   color: var(--light-text-color);
-  margin-block-end: 1em;
-  padding: 0;
   white-space: nowrap;
+}
+
+main > time {
+  display: block;
+  margin-block: 0.5em 2em;
 }
 
 ul[role="list"] {
@@ -153,7 +193,7 @@ footer {
   border-block-start: 0.1em solid var(--light-text-color);
   font-size: 0.8em;
   text-align: center;
-  margin-block-start: 10em;
+  margin-block-start: 6em;
   padding-block-start: 3em;
   color: var(--light-text-color);
 }

@@ -4,6 +4,8 @@ date: '2024-01-12'
 weight: 1
 ---
 
+# Extension Pack
+
 “You think they’re alive?” asked Grandpa.
 
 His son Jaden answered, “Sure. They seem to be. I mean—”
@@ -62,7 +64,7 @@ Jasmine giggled with delight, forgetting her battle with mom. She tossed hers to
 
 * * *
 
-# Backstory
+## Backstory
 
 This is the first short story I wrote in what has become a series about BioBots, a biotech toy company that creates a line of toys called BioBuddies. I have been exploring the question, _what would happen if a company created snap-together toy blocks that could assemble a living creature?_
 

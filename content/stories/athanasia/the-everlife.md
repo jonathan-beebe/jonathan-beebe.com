@@ -6,6 +6,8 @@ params:
   summary: On the street corner of a town there sat a man on a bench. He was not a happy man. In fact, not only was he not happy, he actively practiced being unhappy. He took pleasure in displeasure. And he liked to share his unhappiness with everyone who walked by.
 ---
 
+# The Everlife
+
 On the street corner of a town there sat a man on a bench. He was not a happy man. In fact, not only was he not happy, he actively practiced being unhappy. He took pleasure in displeasure. And he liked to share his unhappiness with everyone who walked by.
 
 This man could be found sitting on a bench on a particular busy corner of downtown all hours of the day. For most people he simply blended into the bench. He had become such a staple, locals didn’t notice him anymore.

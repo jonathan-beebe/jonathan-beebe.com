@@ -5,6 +5,8 @@ params:
   summary: A flash-fiction short story about life’s consequences.
 ---
 
+# ☎️ Our Options Have Changed
+
 ## Backstory
 
 _This is a story birthed from my wonder at the soulless technology that surrounds us._
@@ -18,8 +20,6 @@ _I got to know their automated receptionists intimately. Sometimes they were set
 _And I began to wonder about the people behind such soulless technology. This is the story of Justin, one of those people._
 
 * * *
-
-# ☎️ Our Options Have Changed
 
 He first became aware of a rushing, pulsing energy. An omnipresent charge engulfing him.
 

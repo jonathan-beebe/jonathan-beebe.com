@@ -5,6 +5,8 @@ params:
   summary: A short memoir about deconstructing.
 ---
 
+# When the Edifice Crumbles
+
 I remember the first time I heard the word “deconstructing”. I thought, *“Yes! This is it! I found my people.”* I had been deconstructing for quite some time, without knowing the name of it, and I had been going it alone. Now I had community.
 
 Some have described deconstruction as a process of gently taking all the bricks apart, reconsidering each, and reassembling a new worldview, brick by brick. For me it was a violent and devastating process, more like blowing up the foundation. The entire building collapsed. I was left standing in a pile of rubble, sifting through the debris, trying to find anything worth salvaging.

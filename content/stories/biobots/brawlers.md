@@ -4,6 +4,8 @@ date: '2024-01-12'
 weight: 2
 ---
 
+# Brawlers
+
 DISPATCH: Suspects gathering at Papermill Warehouse. Large crowd inside. Expect brawlers there for a fight.
 
 OFFICER CHITOM: 10-4. I’m at the Soup Bowl down the street, heading south. En route.

@@ -6,6 +6,8 @@ params:
   summary: They said age was a disease, without considering half their audience was aged past prime. And I bought into it, infected with the insipid idea . . .
 ---
 
+# Don’t Kill the Messenger
+
 I can see my reflection in the glossy smears of fresh blood. But I hate it, my reflection. Wiping off the knife, the blood is gone, but my reflection is still there in the cold, polished metal. I can wipe away the evidence of my crime. But I can't erase the injustice echoing back at me in every reflection I see, in every face I pass that dares to make eye contact; I see it in their reactions.
 
 Confirmation. I am right. I am just. 

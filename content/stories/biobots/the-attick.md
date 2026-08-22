@@ -4,6 +4,8 @@ date: '2025-02-09'
 weight: 3
 ---
 
+# The Attic
+
 His tear fell on the dusty picture, spattering in muddy streaks. Despite tear-soaked eyes he was seeing clearly, his mind’s eye awash in memories. A perfect storm of emotions pounded him, dissolving a lifetime of carefully crafted stoicism.
 
 Moments slid by in silence.  

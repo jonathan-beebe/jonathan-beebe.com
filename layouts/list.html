@@ -12,7 +12,7 @@
       <a href="{{ .RelPermalink }}">{{ .Title }}</a>
       <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
       {{ with or .Params.summary .Description .Summary }}
-      <small>{{ . | plainify | truncate 160 }}</small>
+      <small>{{ . | plainify | truncate 160 | replaceRE " …$" "\u00a0…" }}</small>
       {{ end }}
     </li>
     {{ end }}

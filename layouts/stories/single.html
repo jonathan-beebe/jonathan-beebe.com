@@ -1,8 +1,14 @@
 {{ define "title" }}{{ .Title }} &ndash; A story by {{ .Site.Params.author.name }}{{ end }}
 {{ define "main" }}
   <main>
-    {{ if .Parent.IsSection}}
-      <h1>{{ .Parent.Title }}<br>—<br>{{ .Title }}</h1>
+    {{ if and .Parent.IsSection (ne .Parent .FirstSection) }}
+      {{ $part := 0 }}
+      {{ range $i, $p := .CurrentSection.Pages.ByWeight }}
+        {{ if eq $p $ }}{{ $part = add $i 1 }}{{ end }}
+      {{ end }}
+      <p class="series-kicker">
+        <a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a> &middot; Part {{ $part }}
+      </p>
     {{ end }}
     {{ .Content }}
 
