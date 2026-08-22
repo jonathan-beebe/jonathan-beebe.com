@@ -14,7 +14,7 @@
       {{ range .Pages }}
         {{ if not .IsSection }}
           <li>
-            <a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
             {{ with .Params.Summary }}
             <small><em>{{ . }}</em></small>
             {{ end }}
@@ -34,7 +34,7 @@
             <ul role="list">
               {{ range .Pages }}
               <li>
-                <a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a>
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
                 {{ with .Params.Summary }}
                 <small><em>{{ . }}</em></small>
                 {{ end }}
