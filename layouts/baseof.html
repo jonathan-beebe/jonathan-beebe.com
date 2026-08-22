@@ -8,16 +8,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   {{ with resources.Get "css/reset.css" | minify | fingerprint }}
-  <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" media="screen">
+  <link rel="stylesheet" href="{{ .RelPermalink }}">
   {{ end }}
 
   {{ with resources.Get "css/styles.css" | minify | fingerprint }}
-  <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" media="screen">
+  <link rel="stylesheet" href="{{ .RelPermalink }}">
   {{ end }}
 
   {{ if eq .Section "stories" }}
     {{ with resources.Get "css/stories.css" | minify | fingerprint }}
-    <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" media="screen">
+    <link rel="stylesheet" href="{{ .RelPermalink }}">
     {{ end }}
   {{ end }}
 
