@@ -1,6 +1,7 @@
 ---
 title: Brawlers
 date: '2024-01-12'
+weight: 2
 ---
 
 DISPATCH: Suspects gathering at Papermill Warehouse. Large crowd inside. Expect brawlers there for a fight.

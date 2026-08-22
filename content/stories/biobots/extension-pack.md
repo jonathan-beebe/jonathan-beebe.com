@@ -1,6 +1,7 @@
 ---
 title: Extension Pack
 date: '2024-01-12'
+weight: 1
 ---
 
 “You think they’re alive?” asked Grandpa.

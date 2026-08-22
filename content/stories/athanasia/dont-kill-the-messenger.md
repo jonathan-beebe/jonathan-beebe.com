@@ -1,6 +1,7 @@
 ---
 title: Don’t Kill the Messenger
 date: '2025-02-09'
+weight: 2
 params:
   summary: They said age was a disease, without considering half their audience was aged past prime. And I bought into it, infected with the insipid idea . . .
 ---

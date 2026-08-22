@@ -30,7 +30,7 @@
           {{ with .Params.Summary }}
             <small><em>{{ . }}</em></small>
           {{ end }}
-            {{ range .Pages.Reverse}}
+            {{ range .Pages }}
               <p>
                 <a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a>
                 {{ with .Params.Summary }}

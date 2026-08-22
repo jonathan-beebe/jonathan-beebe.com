@@ -1,6 +1,7 @@
 ---
 title: The Everlife
 date: '2025-02-09'
+weight: 1
 params:
   summary: On the street corner of a town there sat a man on a bench. He was not a happy man. In fact, not only was he not happy, he actively practiced being unhappy. He took pleasure in displeasure. And he liked to share his unhappiness with everyone who walked by.
 ---
