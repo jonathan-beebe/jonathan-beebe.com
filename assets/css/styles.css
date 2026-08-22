@@ -128,6 +128,10 @@ ul[role="list"] > li {
   margin-block: 1em;
 }
 
+ul[role="list"] > li > small {
+  display: block;
+}
+
 nav ul {
   list-style-type: none;
   margin: 0;
