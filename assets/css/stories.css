@@ -40,19 +40,6 @@ main {
   line-height: 1.6;
 }
 
-main h1,
-main h2,
-main h3,
-main h4,
-main h5,
-main h6,
-main blockquote,
-main p,
-main a
-{
-  display: block;
-}
-
 h1,
 h2,
 h3 {
@@ -86,10 +73,6 @@ small {
 
 strong {
   font-weight: 900;
-}
-
-blockquote * {
-  display: inline-block;
 }
 
 blockquote :first-child {
