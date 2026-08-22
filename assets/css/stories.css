@@ -1,40 +1,41 @@
 
 @font-face {
-  font-family: "IowanOldSt OSF BT Roman";
+  font-family: "Iowan Old Style";
   src: url("../fonts/IowanOldSt-OSF-BT-Roman/1e7b25c83a23600d1ab17ef5d3af3402.woff2") format("woff2");
-  font-weight: normal;
+  font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "IowanOldSt Blk BT Black";
+  font-family: "Iowan Old Style";
   src: url("../fonts/IowanOldSt-Blk-BT-Black/caacd291335e6013fb4f648efee67da7.woff2") format("woff2");
-  font-weight: normal;
+  font-weight: 900;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Iowan Old Style W01 Bold";
+  font-family: "Iowan Old Style";
   src: url("../fonts/Iowan-Old-Style-W01-Bold/6bdbc98de74280c5c53856ee86f193b9.woff2") format("woff2");
-  font-weight: normal;
+  font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Iowan Old Style W01 Italic";
+  font-family: "Iowan Old Style";
   src: url("../fonts/Iowan-Old-Style-W01-Italic/376b17e388b936ed3e979f8ce56ad913.woff2") format("woff2");
-  font-weight: normal;
-  font-style: normal;
+  font-weight: 400;
+  font-style: italic;
   font-display: swap;
 }
 
 main {
-  font-family: "IowanOldSt OSF BT Roman";
+  font-family: "Iowan Old Style";
   font-weight: 400;
   font-style: normal;
+  font-synthesis: none;
   font-size: 14pt;
   line-height: 1.6;
 }
@@ -82,13 +83,8 @@ small {
   color: var(--light-text-color);
 }
 
-i,
-em {
-  font-family: "Iowan Old Style W01 Italic";
-}
-
 strong {
-  font-family: "IowanOldSt Blk BT Black";
+  font-weight: 900;
 }
 
 blockquote * {
@@ -98,10 +94,6 @@ blockquote * {
 blockquote :first-child {
   margin-top: 0;
   padding-top: 0;
-}
-
-blockquote em {
-  font-family: "Iowan Old Style W01 Italic";
 }
 
 main > section > section,
@@ -120,8 +112,13 @@ main > section > section > section
 
 
 
+.poem {
+  font-family: "Iowan Old Style";
+  font-synthesis: none;
+}
+
 .poem .text {
-  font-family: "Iowan Old Style W01 Italic";
+  font-style: italic;
 }
 
 .series-nav {
@@ -143,11 +140,10 @@ main > section > section > section
 }
 
 h1 {
-  font-family: "Iowan Old Style W01 Bold";
   text-transform: uppercase;
 
   font-size: 1.8em;
-  font-weight: 500;
+  font-weight: 700;
   font-style: normal;
   text-align: center;
 
@@ -155,7 +151,8 @@ h1 {
 }
 
 .poem h1 {
-  font-family: "Iowan Old Style W01 Italic";
+  font-weight: 400;
+  font-style: italic;
   text-transform: none;
   text-align: left;
 }
