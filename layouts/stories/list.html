@@ -10,17 +10,18 @@
   
     <hr>
 
-    {{ range .Pages }}
-      {{ if .IsSection }}
-      {{ else }}
-        <p>
-          <a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a>
-          {{ with .Params.Summary }}
-          <small><em>{{ . }}</em></small>
-          {{ end }}
-        </p>
+    <ul role="list">
+      {{ range .Pages }}
+        {{ if not .IsSection }}
+          <li>
+            <a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a>
+            {{ with .Params.Summary }}
+            <small><em>{{ . }}</em></small>
+            {{ end }}
+          </li>
+        {{ end }}
       {{ end }}
-    {{ end }}
+    </ul>
 
     {{ range .Pages }}
       {{ if .IsSection }}
@@ -30,14 +31,16 @@
           {{ with .Params.Summary }}
             <small><em>{{ . }}</em></small>
           {{ end }}
-            {{ range .Pages }}
-              <p>
+            <ul role="list">
+              {{ range .Pages }}
+              <li>
                 <a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a>
                 {{ with .Params.Summary }}
                 <small><em>{{ . }}</em></small>
                 {{ end }}
-              </p>
-            {{ end }} 
+              </li>
+              {{ end }}
+            </ul>
       {{ end }}
     {{ end }}
 
