@@ -36,7 +36,6 @@ main {
   font-weight: 400;
   font-style: normal;
   font-synthesis: none;
-  font-size: 14pt;
   line-height: 1.6;
 }
 
@@ -57,14 +56,6 @@ main hr {
   background-color: rgba(157, 117, 92, 0.8);
 }
 
-main article hr {
-  border: none;
-  width: 60%;
-  height: 0.3em;
-  margin: 3em auto;
-  background: var(--light-text-color);
-}
-
 small {
   display: block;
   font-size: 0.8em;
@@ -79,22 +70,6 @@ blockquote :first-child {
   margin-top: 0;
   padding-top: 0;
 }
-
-main > section > section,
-main > section > section > section
-{
-  margin-left: 1.6em;
-}
-
-@media only screen and (max-width: 432pt) {
-  main > section > section,
-  main > section > section > section
-  {
-    margin-left: 0.8em;
-  }
-}
-
-
 
 .poem .text {
   font-style: italic;
