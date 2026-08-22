@@ -7,16 +7,14 @@ copyright = '© 2026 Jonathan Beebe'
 capitalizeListTitles = false
 
 [params]
-  storiesSection = "stories"
   [params.author]
     email = 'jonathan-beebe@outlook.com'
     name = 'Jonathan Beebe'
 
 [menu]
 [[menu.main]]
-  pageRef="/"
+  pageRef = "/"
   name = 'Home'
-  url = '/'
   weight = 10
 [[menu.footer]]
   name = 'Contact'
@@ -31,33 +29,9 @@ capitalizeListTitles = false
     source = "assets/fonts"
     target = "static/fonts"
 
- [[module.mounts]]
-    source = "content"
-    target = "content"
-
   [[module.mounts]]
     source = "static"
     target = "static"
-
-  [[module.mounts]]
-    source = "layouts"
-    target = "layouts"
-
-  [[module.mounts]]
-    source = "data"
-    target = "data"
-
-  [[module.mounts]]
-    source = "assets"
-    target = "assets"
-
-  [[module.mounts]]
-    source = "i18n"
-    target = "i18n"
-
-  [[module.mounts]]
-    source = "archetypes"
-    target = "archetypes"
 
 [outputs]
   home = ['html']
