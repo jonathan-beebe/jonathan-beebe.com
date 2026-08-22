@@ -16,7 +16,7 @@ No one is permanent.
 I can’t look at his face, though. It would feel too much like murder, and we can’t have that lingering over us now, can we? No, because this is not murder. This is activism. Art. I’m not killing people. I’m killing an insidious, narcissistic disease. And if that means some people must die, so be it. 
 Ideas are infectious. And this idea is an epidemic. Caught simply from seeing it. Often on first contact. It has a half-life of forever. So a lot of people will need to die. 
 
-As I sheath the knife my hand cramps. Arthritis. This damn 72-year old carcass of mine is not worth keeping around. But I have no choice. And that’s the problem. Their problem. It’s not my fault Athanasia™ was delayed two decades. 
+As I sheath the knife my hand cramps. Arthritis. This damn 72-year-old carcass of mine is not worth keeping around. But I have no choice. And that’s the problem. Their problem. It’s not my fault Athanasia™ was delayed two decades. 
 If they’d delivered on their promise I’d still be a handsome 50-ish man, strong, wealthy, sought after. I reserved my spot. Paid the price. And what did they deliver? A twenty-two-year-late package of pills. And a promise of life, as a forever-fossil. Not even a _We’re sorry, Mr. Trent, about the extra 22 years you will have to carry with you, **forever**. We're sorry we missed our deadline._ What about my ever-approaching deadline!
 
 _The opportunity of a lifetime_ they advertised. What a sadistic pun. 

@@ -21,9 +21,9 @@ As much as he hated crowds, he longed for the lonely company of his local coffee
 
 Jordan grabbed his coffee cup and stormed into his kitchen. He went about the ritual of making another cup of coffee while thinking through his predicament, and his character’s.
 
-He'd been drinking too much coffee since the quarantine started, but the ritual helped unblock his thinking. He started by dumping the old grounds into a garbage bag.
+He’d been drinking too much coffee since the quarantine started, but the ritual helped unblock his thinking. He started by dumping the old grounds into a garbage bag.
 
-_Ok Jordan_, he asked himself, _how can we fix this? What if he drags the bodies inside and wraps them in a garbage bag? Seems simple. Might work._
+_Okay Jordan_, he asked himself, _how can we fix this? What if he drags the bodies inside and wraps them in a garbage bag? Seems simple. Might work._
 
 He walked to his laptop and typed into the search bar, “how many garbage bags do you need to wrap a body?”
 
@@ -57,15 +57,15 @@ Midway through his first sip there was a pounding on the door.
 
 “Jordan Crenshaw, open up! This is the FBI.”
 
-_No way!_, he thought. _That's precisely how I wrote it in my book! What should I do?_
+_No way!_ he thought. _That’s precisely how I wrote it in my book! What should I do?_
 
 Shivering with excitement, he did the first thing that came to mind. He opened the door. Exactly like his character in his book. Which he instantly regretted. Just as his character had. He was face to face with two guns leveled straight at his forehead.
 
-He backed up slightly and stammered, “this is, I mean, what do you, oh, this is so real . . .”
+He backed up slightly and stammered, “This is, I mean, what do you, oh, this is so real . . .”
 
 “Jordan, lie on the ground with your hands on your head.”
 
-_Ha! That's what I wrote! That is my character’s line!_
+_Ha! That’s what I wrote! That is my character’s line!_
 
 He felt vindicated, as this confirmed his research. He originally wrote his character being shoved against the wall, but online forums had convinced him it was only an old movie trope to be avoided.
 

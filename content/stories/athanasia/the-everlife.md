@@ -13,7 +13,7 @@ When he did come to the mind of some person, it wasn’t because they had seen h
 
 This singular sign, inseparable from the man, carried a message for all. It said,
 
-“Repent, for the end of life is nigh. Athanasia is a lie. You WILL die. Genesis 6:3”.
+“Repent, for the end of life is nigh. Athanasia is a lie. You WILL die. Genesis 6:3.”
 
 Few ever stopped to read his sign. When someone did pause long enough to read, they kept a safe distance from him and were careful to not make eye contact. And he obliged them, sitting stiff as a statue, continuing to look straight ahead into the store window.
 
@@ -21,7 +21,7 @@ But he was sly. He would often watch them in the window’s reflection. He felt 
 
 This stone of a man stayed stiff and unreadable through it all. But his internal monologue revealed his heart in the matter. “Oh Lord Jesus, thank you that you made me for righteousness, unlike all these. For I know the limit you impose upon me, a lifetime of 120 years, and I wouldn’t dare exceed it.”
 
-There was only one thing that brought this man true displeasure. Children. They were the only creatures capable of making his displeasure feel uncomfortable. Too young to take the immortality drug Athanasia, they were still innocent of the sins of this age. He enjoyed judging others and their unrighteous. And children were out of reach.
+There was only one thing that brought this man true displeasure. Children. They were the only creatures capable of making his displeasure feel uncomfortable. Too young to take the immortality drug Athanasia, they were still innocent of the sins of this age. He enjoyed judging others and their unrighteousness. And children were out of reach.
 
 Jesus had said, “Let the little children come to me.”
 
@@ -33,7 +33,7 @@ Year after year, the man on the bench aged, wrinkled, and withered, because he c
 
 Until one day, when he wasn’t there.
 
-A little girl sat on the bench eating an orangecicle ice cream. She admired her dress in the reflection of the store window. Her dress had an orange and white pattern, which inspired her choice in flavors.
+A little girl sat on the bench eating an orange creamsicle. She admired her dress in the reflection of the store window. Her dress had an orange and white pattern, which inspired her choice in flavors.
 
 “Mommy!”
 

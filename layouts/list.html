@@ -4,7 +4,7 @@
     {{ .Title }}
   </h1>
   {{ with .OutputFormats.Get "rss" -}}
-    <small>Subscribe to the <a class="decorate" href="{{ .Permalink | safeURL }}">rss feed here.</a></small>
+    <small>Subscribe to the <a class="decorate" href="{{ .Permalink | safeURL }}">rss feed here</a>.</small>
   {{ end }}
   {{ range .Pages }}
   <p>

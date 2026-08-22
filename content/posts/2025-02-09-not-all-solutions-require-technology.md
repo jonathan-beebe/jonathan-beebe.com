@@ -1,5 +1,5 @@
 ---
-title: Not all solutions require technology 
+title: Not all solutions require technology
 date: '2025-02-09'
 tags: 
   - technology

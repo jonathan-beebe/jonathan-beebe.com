@@ -7,7 +7,7 @@ His tear fell on the dusty picture, spattering in muddy streaks. Despite tear-so
 
 Moments slid by in silence.  
 
-Morning light beamed in to the dusty attic; knives slicing the space into fragments. It smelled of mice and mildew and musty old cardboard. He opened his eyes and blinked, seeing each box anew.
+Morning light beamed into the dusty attic; knives slicing the space into fragments. It smelled of mice and mildew and musty old cardboard. He opened his eyes and blinked, seeing each box anew.
 
 Did he dare open another? Unconsciously he feared what he might discover; each box a blunt hammer to his carefully crafted porcelain shell.
 
@@ -27,8 +27,7 @@ The tiny community in the box rapidly discussed their luck. The moment had arriv
 
 “Stick to the plan.”
 
-The lid to the box popped up as stubby limbs emerged.
-Little fingers and stubby limbs pried the lid open. 
+The lid to the box popped up as little fingers and stubby limbs pried it open. 
 A few of them perched on the edge. They watched him studying the attic, tear streaks evident on his cheeks. 
 
 “Tears! He fears we might be gone!”
@@ -61,7 +60,7 @@ The little creatures smiled at each other.
 
 As he watched the migration from the box to the top of the dresser he wondered aloud, “how is it possible that you are all still alive?”
 
-A large rust colored creature took a step forward, pointed directly at him, and said “you created us.”
+A large rust-colored creature took a step forward, and said “You created us.”
 
 “You — you talk?!”
 
@@ -125,4 +124,4 @@ His mind was far away. He tipped the box into the recycler and they tumbled in. 
 
 The floor filled with neatly restored BioBuddies parts.
 
-Back in his car he carefully placed the repackaged box of freshly recycled parts into his trunk. He did a quick search for the price for a mint condition original BioBuddies™ set. Just as he expected; nearly priceless. He could probably get two month’s salary without much effort. 
+Back in his car he carefully placed the repackaged box of freshly recycled parts into his trunk. He did a quick search for the price for a mint-condition original BioBuddies™ set. Just as he expected; nearly priceless. He could probably get two month’s salary without much effort. 

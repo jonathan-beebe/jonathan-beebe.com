@@ -45,7 +45,7 @@ He sent his design to the printer and smiled at Amy, “Illegal? Only if someone
 
 ---- 
 
-Officer Chitom placed the receiver back into its cradle as he sped down Basset St. His partner asked, “you ever taken a brawler’s fight before?”
+Officer Chitom placed the receiver back into its cradle as he sped down Basset St. His partner asked, “You ever taken a brawler’s fight before?”
 
 “Yep, taken a few. You?”
 
@@ -65,17 +65,17 @@ The mech had inflicted terrible damage. Strips of flesh hung off the bot’s rig
 
 Charles boxed the air, shadow fighting along with his bot. The blood didn’t faze him. He had modded his bot with a massive blood supply and surface veins serving no purpose other than to bleed easily. A ruse intended to endear the crowd and confuse the opponent.
 
-Suddenly, the mech slipped in the pool of blood. It was just a few milliseconds of uncontrolled footwork, but it was enough. Charles’ bot saw the opening and dove in. With one swift downward thrust the mech’s left knee was shattered. Far from finishing the fight, the mech rebounded immediately and adjusted. But the tide had turned; Charles bot would win.
+Suddenly, the mech slipped in the pool of blood. It was just a few milliseconds of uncontrolled footwork, but it was enough. Charles’ bot saw the opening and dove in. With one swift downward thrust the mech’s left knee was shattered. Far from finishing the fight, the mech rebounded immediately and adjusted. But the tide had turned; Charles’ bot would win.
 
 The music stopped. The lights blinked. For a brief moment, silence pressed in on the crowd, magnifying the sound of the two fighters splashing in the bloody ring. A boy ran up from the back yelling “brawlers gotta BOUNCE!”
 
 The cops were on their way.
 
-The lights were extinguished. Chaos escalated to pandemonium. Charle’s opponent leaped into the ring. He snatched up his mech. Eyes blazing, he spun around and kicked Charle’s bot across the ring.
+The lights were extinguished. Chaos escalated to pandemonium. Charles’ opponent leaped into the ring. He snatched up his mech. Eyes blazing, he spun around and kicked Charles’ bot across the ring.
 
 ---- 
 
-OFFICER CHITOM: Racers on Basset, north and sound bound!
+OFFICER CHITOM: Racers on Basset, north and south bound!
 
 SERGEANT PETERSON: I see them! In pursuit of a blue Bolt. At least 8 more headed north of Basset towards Cross Street.
 
@@ -83,6 +83,6 @@ DISPATCHER: Copy that. All available units, please respond to the Papermill Ware
 
 ---- 
 
-Charles sped away in his blue Bolt. _Damn. I would have won. I **would have won!**_ Adrenalin-pumped images flashed through his mind as he anticipated the inevitable and violent rematch. Tonight his mods proved a biobot could win against a mech. He was sure of it. Gripping his steering with white-knuckled fury, he vowed to give the crowd something to cheer for next time.
+Charles sped away in his blue Bolt. _Damn. I would have won. I **would have won!**_ Adrenalin-pumped images flashed through his mind as he anticipated the inevitable and violent rematch. Tonight his mods proved a biobot could win against a mech. He was sure of it. Gripping his steering wheel with white-knuckled fury, he vowed to give the crowd something to cheer for next time.
 
 Red and blue flashed across his face; Sergeant Peterson’s lights reflected in the rearview mirror. _Well_, Charles thought, _this will make for two illegal activities tonight_. He turned off his headlights and diverted down a back alley towards the university lab.

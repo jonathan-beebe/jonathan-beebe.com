@@ -29,11 +29,11 @@ She glanced in the direction of her child’s gaze. Fireballs streaked through t
 
 “We were,” she said, a curious concern nagging at her. She regularly kept watch on the calendar of celestial events, because her daughter had become so interested in them. The next meteor shower wasn’t to be observed for another few months. 
 
-“What is this one called, mum?”
+“What is this one called, mummy?”
 
 “I—I don’t know. Let me check.”
 
-Suddenly her daughter illuminated, cutting a shadow across the now bright lawn. 
+Suddenly her daughter was illuminated, cutting a shadow across the now bright lawn. 
 
 “Wow mummy, look at that big one!” she said, pointing up. 
 
@@ -73,7 +73,7 @@ Joe asked, “Are you . . . recording this?”
 
 “I have no idea. What do you think they . . . miscalculated?”
 
-As suddenly as the storm of sounds had started, it was over. An inescapable silence followed, larger and more empty than before.
+As suddenly as the storm of sounds had started, it was over. An inescapable silence followed, larger and emptier than before.
 
 Outside their window the sky began to twinkle with the light of a meteor shower. 
 

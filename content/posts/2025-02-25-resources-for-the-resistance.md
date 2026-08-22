@@ -26,7 +26,7 @@ First, it is helpful to have a definition of terms. These terms are often thrown
 
 **Democracy**
 : rule of the people.
-: a system of government by the whole population or all the eligible members of a state, typically through elected representatives. *Keyword "eligible", not always **all** of the people get the right to vote. In America it wasn’t until 1870 when African American men got the right to vote, and 1920 for woman, and not until 1965 when the Voting Rights Act tried to protect minority voting rights—and it has been under attack ever since.*
+: a system of government by the whole population or all the eligible members of a state, typically through elected representatives. *Keyword “eligible”, not always **all** of the people get the right to vote. In America it wasn’t until 1870 when African American men got the right to vote, and 1920 for women, and not until 1965 when the Voting Rights Act tried to protect minority voting rights—and it has been under attack ever since.*
 
 **Despot**
 : a ruler or other person who holds absolute power, typically one who exercises it in a cruel or oppressive way.
@@ -43,7 +43,7 @@ First, it is helpful to have a definition of terms. These terms are often thrown
 **Nazi**
 : a person with extreme racist or authoritarian views.
 : a person who seeks to impose their views on others in a very autocratic or inflexible way.
-: *historical* a member of the far-right National Socialist German Workers' Party.
+: *historical* a member of the far-right National Socialist German Workers’ Party.
 
 **Plutocracy**
 : a country or society governed by the wealthy.
@@ -69,7 +69,7 @@ First, it is helpful to have a definition of terms. These terms are often thrown
 : By Heather Cox Richardson. A call to action about the precarious state of American democracy, charting its historical challenges and current threats.
 
 **[On Tyranny, Twenty Lessons from the Twentieth Century](https://timothysnyder.org/on-tyranny)**
-: By Timothy Snyder. “A ‘bracing’ guide for surviving and resisting America's turn towards authoritarianism.” — New York Times
+: By Timothy Snyder. “A ‘bracing’ guide for surviving and resisting America’s turn towards authoritarianism.” — New York Times
 
 **[The Road to Unfreedom](https://timothysnyder.org/books/)**
 : By Timothy Snyder. A chronicle of the rise of authoritarianism from Russia to Europe and America.
@@ -83,7 +83,7 @@ First, it is helpful to have a definition of terms. These terms are often thrown
 : > “Historians are fond of saying that the past doesn’t repeat itself; it rhymes. To understand the present, we have to understand how we got here. That’s where this newsletter comes in.”
 
 [**What The Fuck Just Happened Today**](https://whatthefuckjusthappenedtoday.com/)
-: Matt Kiser’s [newsletter](https://whatthefuckjusthappenedtoday.com/) is second-to-none in summarizing what is happening today. With the intense chaotic deluge of changes coming out of the Trump Whitehouse, Matt’s “Today in one sentence” summaries are an artful strain the use of a semicolon to contain all the chaos in one sentence.
+: Matt Kiser’s [newsletter](https://whatthefuckjusthappenedtoday.com/) is second-to-none in summarizing what is happening today. With the intense chaotic deluge of changes coming out of the Trump White House, Matt’s “Today in one sentence” summaries are an artful strain on the use of a semicolon to contain all the chaos in one sentence.
 
 [**Politics Girl, Leigh McGowan**](https://www.politicsgirl.com/)
 : I love her approach, “when you understand you care, and when you care you vote”. Her [YouTube shorts](https://www.youtube.com/@PoliticsGirl/shorts) are a great starting point for connecting with her content. And she has a [podcast](https://podcasts.apple.com/us/podcast/the-politicsgirl-podcast/id1595408601), [book](https://www.simonandschuster.com/books/A-Return-to-Common-Sense/Leigh-McGowan/9781668066430), and you can learn more at her [website](https://www.politicsgirl.com/).
@@ -104,8 +104,8 @@ First, it is helpful to have a definition of terms. These terms are often thrown
 
 [The tech oligarchy has been here for years](https://www.bloodinthemachine.com/p/the-tech-oligarchy-has-been-here)
 
-['Reboot' Revealed: Elon Musk's CEO-Dictator Playbook](https://www.thenerdreich.com/reboot-elon-musk-ceo-dictator-doge/) 
-: *The playbook written by Peter Theil’s in-house philosopher, a playbook that Elon Musk is implementing.*
+[‘Reboot’ Revealed: Elon Musk’s CEO-Dictator Playbook](https://www.thenerdreich.com/reboot-elon-musk-ceo-dictator-doge/) 
+: *The playbook written by Peter Thiel’s in-house philosopher, a playbook that Elon Musk is implementing.*
 
 [Italian Tyranny: An Anti-Fascist View](https://www.theatlantic.com/magazine/archive/1925/12/italian-tyranny-an-anti-fascist-view/648711/) 
 : An Atlantic article from 1925 serving as a reminder that *none of this is new*. You can [view the entire original free as a pdf](https://cdn.theatlantic.com/media/archives/1925/12/136-6/132412105.pdf).
@@ -134,7 +134,7 @@ Christian Nationalists are one of the primary voting bases for authoritarianism,
 - [Trump and Religion, Dan McClellan](https://www.youtube.com/watch?v=ObePfeqlP_U)
 - [On Trump, Christianity, and Mercy, Dan McClellan](https://www.youtube.com/watch?v=IB8P6R6ZLGo)
 - [AOC on fake Christians using scripture to justify bigotry](https://www.reddit.com/r/PublicFreakout/s/D4UbQVV2s0)
-- [Drunk on Power: Christian Nationalism's War on Democracy](https://m.youtube.com/watch?v=RTmlNvf5lRs&pp=ygUgaGlzdG9yeSBvZiBjaHJpc3RpYW4gbmF0aW9uYWxpc20%3D)
+- [Drunk on Power: Christian Nationalism’s War on Democracy](https://m.youtube.com/watch?v=RTmlNvf5lRs&pp=ygUgaGlzdG9yeSBvZiBjaHJpc3RpYW4gbmF0aW9uYWxpc20%3D)
 - [“Your enemies should be having nightmares every night thinking about what the Christians are going to do to them . . . terrorize, I use that word intentionally, it is a biblical word.”](https://www.peoplefor.org/rightwingwatch/joel-webbon-says-christian-nationalists-must-use-power-government-absolutely)
 
 ---

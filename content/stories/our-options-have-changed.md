@@ -9,7 +9,7 @@ params:
 
 _This is a story birthed from my wonder at the soulless technology that surrounds us._
 
-_I once went through a horrifying medical ordeal half way across the country. It involved a missed flight, blood, an ambulance, hospital stays, sleepless nights, and bills. Lots of bills._
+_I once went through a horrifying medical ordeal halfway across the country. It involved a missed flight, blood, an ambulance, hospital stays, sleepless nights, and bills. Lots of bills._
 
 _In the aftermath of this trip I had to call car rental companies, airlines, hospitals, medical insurance, and my bank. Often multiple times._
 
@@ -25,7 +25,7 @@ He first became aware of a rushing, pulsing energy. An omnipresent charge engulf
 
 Then, voices.
 
-They were garbled, distant, carried by the flow. Now that he focused on them, they rose to a crescendo; a cacophony surrounding and enveloping him. Waves of senseless sound crashed, threatening to overwhelm and sink him.
+They were garbled, distant, carried by the flow. Now that he focused on them, they rose to a crescendo, a cacophony surrounding and enveloping him. Waves of senseless sound crashed, threatening to overwhelm and sink him.
 
 Then the voices faded to imperceptible whispers as one broke through.
 
@@ -47,7 +47,7 @@ Those voices! Something about them seemed eerily familiar, a memory more real th
 
 “. . . if you know your party’s extension press—”
 
-A scream of anguish rang out from somewhere. The cold, emotionless response gave him chills. “I’m sorry, that was an invalid selection, please select from the following . . .”
+A scream of anguish rang out from somewhere. The cold, emotionless response gave him chills. “I’m sorry, that was an invalid selection. Please select from the following . . .”
 
 Another anguished scream, this one nearer. He recognized her voice. Jane McKenzie, a voice actor he’d hired.
 
@@ -97,7 +97,7 @@ Impossible! Not another robotic system! He mashed the zero to speak to an operat
 
 No response.
 
-He started to shake. Trying to throw the phone off his desk, it disappeared like a vapor. He looked down at his hands, but again, he had none. Then he was surrounded by robotic voices, repeating their patterned speeches, and the occasional echoing cry of despair—a soul trapped in an endless maze of options.
+He started to shake. As he tried to throw the phone off his desk, it disappeared like a vapor. He looked down at his hands, but again, he had none. Then he was surrounded by robotic voices, repeating their patterned speeches, and the occasional echoing cry of despair—a soul trapped in an endless maze of options.
 
 He retreated, trying to escape the madness.
 
@@ -105,7 +105,7 @@ And then, as if walking off the edge of the earth, he fell.
 
 Tumbling to a stop, he leaped up to avoid being scorched by the searing floor. He’d landed in a small room, a phone booth, illuminated by a singular source—his name emblazoned across the wall. The only other ornament was a red phone.
 
-He reached for the receiver and nearly dropped it, his hands were so sweaty.
+He reached for the receiver and nearly dropped it; his hands were so sweaty.
 
 Not knowing whom to call, he studied the phone’s faceplate. Scribbled on the bottom was a note to call the front desk if anything was out of order. He dialed.
 
@@ -113,7 +113,7 @@ Not knowing whom to call, he studied the phone’s faceplate. Scribbled on the b
 
 He mashed the dial pad.
 
-“We’re sorry, that was an invalid entry. Please try again. If you know your party's extension, you may say or dial it at any time.”
+“We’re sorry, that was an invalid entry. Please try again. If you know your party’s extension, you may say or dial it at any time.”
 
 In frustration, he blurted out, “Aww _hell_!”
 

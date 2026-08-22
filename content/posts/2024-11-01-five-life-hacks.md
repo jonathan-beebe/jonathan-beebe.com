@@ -1,6 +1,6 @@
 ---
-title: 'Five life hacks I know at 44 but I wish I knew at 24'
-date: '2024-10-12'
+title: 'Five Life Hacks I Know at 44 but I Wish I Knew at 24'
+date: '2024-11-01'
 tags: 
   - ruminations
 ---

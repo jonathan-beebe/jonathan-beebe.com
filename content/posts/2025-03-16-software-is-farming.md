@@ -1,6 +1,6 @@
 ---
 date: '2025-03-16'
-title: 'Software is Farming'
+title: 'Software Is Farming'
 tags: 
   - software-engineering
 ---

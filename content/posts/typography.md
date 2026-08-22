@@ -23,7 +23,7 @@ What about this short unordered list?
 - List b
 - List c
 
-An an ordered list?
+And an ordered list?
 
 1. List one
 2. List two
@@ -43,4 +43,4 @@ This is **bold** text, and this is *emphasized* text.
 
 ## And a parting thought
 
-> Lose an hour in the morning, and you will be all day hunting for it. - Richard Whately
+> Lose an hour in the morning, and you will be all day hunting for it. — Richard Whately

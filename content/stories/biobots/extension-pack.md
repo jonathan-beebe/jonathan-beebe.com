@@ -3,7 +3,7 @@ title: Extension Pack
 date: '2024-01-12'
 ---
 
-“You think they’re alive?” asked grandpa.
+“You think they’re alive?” asked Grandpa.
 
 His son Jaden answered, “Sure. They seem to be. I mean—”
 
@@ -13,17 +13,17 @@ His son Jaden answered, “Sure. They seem to be. I mean—”
 
 “How long they usually live?”
 
-“Not sure. Nancy is a stickler about the kids cleaning, so normally they recycle ‘em back into parts and put ‘em away. But I once found one crawling around my desk. Eating an eraser. Super hungry. Aaron said he’d made it last week. So they can last awhile.”
+“Not sure. Nancy is a stickler about the kids cleaning, so normally they recycle ’em back into parts and put ’em away. But I once found one crawling around my desk. Eating an eraser. Super hungry. Aaron said he’d made it last week. So they can last awhile.”
 
 “Huh. You say they eat, too?” He stared thoughtfully at his grandkids, Jasmine and Aaron, playing with their newest gift. They had received an extension pack for their favorite BioBuddies set. The new pieces allowing them to build more advanced pets.
 
-He picked up the lid to the box and studied it. A young boy and girl were pictured assembling something, surrounded by animals they had already made. Across the top in bold childish writing it read “BioBuddies™, Building Blocks of Life”. A callout read “Intelligence Extension. Give your BioBuddies™ enhanced life with improved motor skills, larger associative memory, and refined sensory inputs. Ages 7+.” It also included a note about the new “Hierarchal Bayesian Network” that could be added, allowing the creatures to learn about their surroundings.
+He picked up the lid to the box and studied it. A young boy and girl were pictured assembling something, surrounded by animals they had already made. Across the top in bold childish writing it read “BioBuddies™, Building Blocks of Life.” A callout read “Intelligence Extension. Give your BioBuddies™ enhanced life with improved motor skills, larger associative memory, and refined sensory inputs. Ages 7+.” It also included a note about the new “Hierarchical Bayesian Network” that could be added, allowing the creatures to learn about their surroundings.
 
 Jaden was getting nervous watching his father’s brow furrow. He cleared his throat and said, “Nancy had a heck of a time getting her hands on a set. They’ve been selling out everywhere.”
 
 Grandpa slowly looked up from the box, eventually saying, “Glad Nancy is ok. It’s been years since something caused such mayhem. Trampling at the mall—”
 
-Jaden added excitedly, “yeah, been a while since a toy created this much buzz!”
+Jaden added excitedly, “Yeah, been a while since a toy created this much buzz!”
 
 He contemplated his son for a moment, then emphasized, “_Toy?_ I thought you said it was _alive_.”
 
@@ -33,9 +33,9 @@ A scream of laughter from the children interrupted their conversation. The adult
 
 “Awww, it’s not moving anymore,” whined Jasmine. She picked up the creature by a leg. It dangled like a wilted flower, dripping drool.
 
-Her brother Aaron swiped it from her, “Hurry, we need to recycle it or it won’t work anymore. Instructions say you can’t let ‘em die for too long.” He dunked it into the recycler, catching the clean, branded parts that tumbled out. All evidence of teeth marks and drool had vanished.
+Her brother Aaron swiped it from her, “Hurry, we need to recycle it or it won’t work anymore. Instructions say you can’t let ’em die for too long.” He dunked it into the recycler, catching the clean, branded parts that tumbled out. All evidence of teeth marks and drool had vanished.
 
-Jasmine grabbed one of the pieces, saying “Oh, I needed that!” fitting it onto her new creation.
+Jasmine grabbed one of the pieces, saying, “Oh, I needed that!” as she fitted it onto her new creation.
 
 Grandpa looked pensive again. Jaden suddenly felt a need to defend himself. “You know it’s not actually recycling. Really, it’s just teaching them all that ‘dust to dust’ stuff you used to teach us kids.”
 

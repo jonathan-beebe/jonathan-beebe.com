@@ -13,7 +13,7 @@ Hemingway swore by these four rules for writing prose ([source](https://www.word
     
 2.  Use short first paragraphs
     
-3.  Use “vigorous” english
+3.  Use “vigorous” English
     
 4.  Be positive, not negative
     
@@ -29,7 +29,7 @@ Adapted for software engineering, they might read:
 4.  Be optimistic, not defensive
     
 
-For Hemingway, a great intro for a story was three short, well honed sentences. While I can’t find a direct source, the consensus view seems to be Hemingway believed there was not a single wasted word in “The Old Man and the Sea”. Now imagine for a moment you could say the same about your best code. Image saying there isn’t a single wasted statement. Not a single wasted function. Not a single unnecessary dependency. Not a single wasted byte of memory or single wasted processor cycle.
+For Hemingway, a great intro for a story was three short, well honed sentences. While I can’t find a direct source, the consensus view seems to be Hemingway believed there was not a single wasted word in “The Old Man and the Sea”. Now imagine for a moment you could say the same about your best code. Imagine saying there isn’t a single wasted statement. Not a single wasted function. Not a single unnecessary dependency. Not a single wasted byte of memory or single wasted processor cycle.
 
 Wouldn’t it be wonderful! But we work in environments optimizing for other things. Business constraints hinder us from refining our code to this level of quality.
 
@@ -69,7 +69,7 @@ Part of a software engineer’s job is creating systems that are resilient. The 
 
 A great example of this is eliminating null values. You can structure code so a value is always defined and can never become null or undefined. This eliminates an entire category of bugs, making your code safe and easy to comprehend. The system needs well defined values, so model it that way.
 
-Another great example is how you might model error conditions. Errors can be treated as anomalies, things that shouldn’t happen. But it’s better to model errors as a natural behavior of the system. Handles errors like any other value. Errors should lead to a predictable and well-designed experience for the customer.
+Another great example is how you might model error conditions. Errors can be treated as anomalies, things that shouldn’t happen. But it’s better to model errors as a natural behavior of the system. Handle errors like any other value. Errors should lead to a predictable and well-designed experience for the customer.
 
 For example, say you want to retrieve a video from the server and display it to the user. You can model a system so if the video retrieval fails, the software acts like, “I never received the expected result, so enter a failure state.” But another way to think about this scenario is to model the failure state as a natural state of the system. Both the video response and error response are reasonable values. They are both displayable resources that can have a well defined interface.
 
@@ -106,7 +106,7 @@ You might write code that you feel perfectly expresses the intent of the program
 
 If you are in tech you might believe everyone is using AI, given the constant barrage of news in this space. But it appears customers are not nearly as engaged. In a thought-provoking piece (originally by Ed Zitron, [summarized by Emmanuel Maggiori](https://www.linkedin.com/posts/emaggiori_the-subprime-ai-crisis-activity-7241796179280162817-8vYB/)) they share:
 
-> Customers of Microsoft's 365 suite ... are barely adopting its AI-powered "Copilot" products, with somewhere between 0.1% and 1% ... paying for the features. One firm testing the AI features is quoted as saying that "most people don't find it that valuable right now."
+> Customers of Microsoft’s 365 suite ... are barely adopting its AI-powered “Copilot” products, with somewhere between 0.1% and 1% ... paying for the features. One firm testing the AI features is quoted as saying that “most people don’t find it that valuable right now.”
 
 I’ve noticed this in my own behavior in products that I love and use on a daily basis. Many of my favorite products have released integrated AI features over the past year. I don’t use _any_ of the AI features, and when given the preference I actively disable them. Often they get in the way and slow me down.
 

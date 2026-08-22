@@ -7,4 +7,4 @@ params:
 > **athanasia** *[ath-uh-ney-zhuh]*
 > 
 > 1\. *noun.* immortality; imperishability; freedom from death; deathlessness.
-> origin: greek. ἀθανασία, ας, ἡ (ath-an-as-ee'-ah)
+> origin: Greek. ἀθανασία, ας, ἡ (ath-an-as-ee'-ah)

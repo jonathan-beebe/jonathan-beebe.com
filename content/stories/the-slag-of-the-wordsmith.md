@@ -1,5 +1,5 @@
 ---
-title: The Slag of The Wordsmith
+title: The Slag of the Wordsmith
 date: '2023-11-16'
 params:
   summary: A fictionalized story about what it felt like to lose faith and find myself.
@@ -57,7 +57,7 @@ He closed his eyes.
 
 The preacher’s practiced cadence filled the hall with words of hope. He spoke of love and mercy and the warm embrace of a father. He told his story of hitting rock bottom, of loneliness, of despair. Except he wasn’t lonely. He had Jesus. “You’ll never know how much you need Jesus, until Jesus is all you have.” He spoke the words as if shaping them on an anvil. Applause erupted from the crowd, sparks of emotion released by the careful hammer blows of a practiced wordsmith.
 
-But there was one who didn’t applaud; the slag of the smith’s work. Desperate and longing to feel the hope that those around him so easily found, our man felt alone in the crowd. His face wore a practiced calm, while inside his internal monologue raged. “Why are their prayers answered, while mine go unheard? How can everyone else feel this peaceful and hopeful presence, while I remain alone, abandoned at the bottom of the pit? Why can’t I be free of this pain? Why can’t I force myself to believe? It would be so much easier. What is wrong with me?”
+But there was one who didn’t applaud—the slag of the smith’s work. Desperate and longing to feel the hope that those around him so easily found, our man felt alone in the crowd. His face wore a practiced calm, while inside his internal monologue raged. “Why are their prayers answered, while mine go unheard? How can everyone else feel this peaceful and hopeful presence, while I remain alone, abandoned at the bottom of the pit? Why can’t I be free of this pain? Why can’t I force myself to believe? It would be so much easier. What is wrong with me?”
 
 He opened his eyes.
 
@@ -72,7 +72,7 @@ He was at the bottom of the pit. Its smooth walls offered no foothold for escape
 
 This is when he should pray, right? This is when he should cast his needs at the feet of the father and ask for strength? He tried to form words to express his need, his loneliness, his longing. But he couldn’t. His mind rebelled. The only words he could muster were a curse of rage.
 
-For the first time in his life, he realized he wasn’t free. Not because he was confined to the pit. But because, try as hard as he might, he had no ability to force a belief. He knew he wouldn’t pray because he knew no one listening. And no amount of effort could manufacture that belief.
+For the first time in his life, he realized he wasn’t free. Not because he was confined to the pit. But because, try as hard as he might, he had no ability to force a belief. He knew he wouldn’t pray because he knew no one was listening. And no amount of effort could manufacture that belief.
 
 However, this didn’t scare him. Instead, scales fell from his eyes and he saw the world for what it was. He wasn’t pretending anymore. At the bottom of the pit he found true freedom. Freedom of mind.
 

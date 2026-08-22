@@ -16,7 +16,7 @@ If you can rank order all the concerns facing your business and name the top thr
 
 - Focus your efforts.
 - Have more fruitful conversations with stakeholders.
-- And can get buy in on addressing the risks.
+- And can get buy-in on addressing the risks.
 
 This is a great place for data driven insights to help tell the story of why something is risky, to quantify the risk, and build a case for why investment is necessary.
 
@@ -37,9 +37,9 @@ I have written more extensively [about a template you can use for this approach]
 
 ### 3) The weekly update
 
-When you have a group of people with a vested interest in your work, communication typically happens in one of two ways. Either they ask for it. Or you offer it. (There is a third option, they may hear about it sideways, as a rumor. This is unhealthy and can be avoided with this approach.)
+When you have a group of people with a vested interest in your work, communication typically happens in one of two ways. Either they ask for it. Or you offer it. (There is a third option: they may hear about it sideways, as a rumor. This is unhealthy and can be avoided with this approach.)
 
-Say your business leader comes to you and asks for a status update. They are often concerned about something. The first time they ask, this is a positive signal that you can add value by addressing their concern. Take note. Is this information they need on a regular cadence? Then don’t make the mask for it again. Repeated asks are a signal you are not communicating enough. This is where the weekly update can help.
+Say your business leader comes to you and asks for a status update. They are often concerned about something. The first time they ask, this is a positive signal that you can add value by addressing their concern. Take note. Is this information they need on a regular cadence? Then don’t make them ask for it again. Repeated asks are a signal you are not communicating enough. This is where the weekly update can help.
 
 The best kind of communication is when you can get ahead of the problem. Proactively answer their question before they ask.
 
@@ -57,8 +57,8 @@ Being intentional about your patterns of communication is essential. Your leader
 
 ## 7 Other Things
 
-1. I remember hearing about water powered cars when I was a kid. It’s exciting to see people [exploring water-power automotive tech](https://www.eldiario24.com/en/water-car-end-gasoline/114/) and making it real.
-2. If water powered cars are optimistic and exciting, this is draconian and depressing. Ford has patented an in-car system that will listen to you so it can play you ads. I can’t imagine how anyone working on this project believes this is a good idea. ([from Motortrend](https://www.motortrend.com/news/ford-in-vehicle-advertising-patent/).)
+1. I remember hearing about water-powered cars when I was a kid. It’s exciting to see people [exploring water-powered automotive tech](https://www.eldiario24.com/en/water-car-end-gasoline/114/) and making it real.
+2. If water-powered cars are optimistic and exciting, this is draconian and depressing. Ford has patented an in-car system that will listen to you so it can play you ads. I can’t imagine how anyone working on this project believes this is a good idea. ([from Motortrend](https://www.motortrend.com/news/ford-in-vehicle-advertising-patent/).)
 3. Scientists gave mushrooms . . . legs? According to [this article](https://www.independent.co.uk/tech/robot-mushroom-biohybrid-robotics-cornell-b2606970.html), mushrooms were able to act like a brain and control robotic legs. Fascinating. And horrifying.
 4. What I am learning: HTMX. I haven’t been this excited about web tech in a while. Here is a [great article on security](https://htmx.org/essays/web-security-basics-with-htmx/) with HTMX.
 5. Great reflection on the value of human writers versus genericized AI-generated slop, from [the LA Times](https://www.latimes.com/socal/daily-pilot/opinion/story/2024-04-09/a-word-please-coffee-shop-prompt-stirs-chatgpt-to-brew-up-bland-copy).
@@ -71,9 +71,9 @@ Being intentional about your patterns of communication is essential. Your leader
 
 > “One minute of exercise buys you five minutes of extra life.”
 
-A reminder to all software engineers and knowledge workers, those of us who may sit for hours on-end: prioritize exercise. It will change your life for the better.
+A reminder to all software engineers and knowledge workers, those of us who may sit for hours on end: prioritize exercise. It will change your life for the better.
 
-The above quote is from Euan Ashley. In [this article/podcast](https://www.theringer.com/2024/8/30/24231888/importance-of-exercise-medical-intervention-cardiovascular-health) she expands on her research,
+The above quote is from Euan Ashley. In [this article/podcast](https://www.theringer.com/2024/8/30/24231888/importance-of-exercise-medical-intervention-cardiovascular-health) she expands on her research:
 
 > . . . it did indeed map that one minute of exercise at a brisk walking sort of pace would buy you five minutes. In fact, if you exercised at a higher intensity, you could get seven or eight minutes of extra life. So it is a stunning statistic, and it’s just not really the way we normally think of it.
 

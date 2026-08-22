@@ -34,7 +34,7 @@ The painful irony lies in this fact: they promise stability only to bring about 
 
 Yesterday it was Hitler and Stalin. Today it is Trump and Musk.
 
-I am deeply troubled by America’s slide into tyranny at the hands of a wannabe fascist dictator and an unelected nazi oligarch. I feel a deep need to understand how we got here and where we are going. Perhaps more importantly, how I can participate to ensure a better outcome and a better future for my son. 
+I am deeply troubled by America’s slide into tyranny at the hands of a wannabe fascist dictator and an unelected Nazi oligarch. I feel a deep need to understand how we got here and where we are going. Perhaps more importantly, how I can participate to ensure a better outcome and a better future for my son. 
 
 Back to the opening quote, the [entire article](https://ryanholiday.net/heres-how-im-preparing-for-the-next-four-years/) is worth a read. But this expanded version gives context, showing how studying and understanding the past helps make sense of today. 
 

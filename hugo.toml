@@ -22,7 +22,7 @@ capitalizeListTitles = false
   name = 'Contact'
   url = '/about#contact'
 [[menu.footer]]
-  name = 'rss'
+  name = 'RSS'
   url = '/posts/index.xml'
   
 

@@ -28,7 +28,7 @@ Creating quality that allows a team to enjoy working in our code year after year
 
 This essay has influenced my career more than any other. It has shaped the kind of output I strive to create: code that is enjoyable to work in. If you enjoy well-crafted metaphors that unlock new perspectives on your craft, then I highly recommend this essay.
 
-The Quality Without a Name, an essay by Richard P. Gabriel found on page 33 of his book [Patterns of Software](https://www.dreamsongs.com/Files/PatternsOfSoftware.pdf)[, available as a free PDF here](https://www.dreamsongs.com/Files/PatternsOfSoftware.pdf).
+The Quality Without a Name, an essay by Richard P. Gabriel found on page 33 of his book [Patterns of Software](https://www.dreamsongs.com/Files/PatternsOfSoftware.pdf)[, available as a free pdf here](https://www.dreamsongs.com/Files/PatternsOfSoftware.pdf).
 
 ### 2\. Ball of Mud
 
@@ -50,7 +50,7 @@ Out of the Tar Pit, by Ben Moseley and Peter Marks, [available as pdf here](http
 
 ### 5\. On Designing and Deploying Internet Scale Services
 
-James Hamilton of Microsoft shows us how to grow an always-on and always-available digital product, with lessons learned from the Windows Live services platform. His paper revolves around three core tenants.
+James Hamilton of Microsoft shows us how to grow an always-on and always-available digital product, with lessons learned from the Windows Live services platform. His paper revolves around three core tenets.
 
 Expect failures.
 
