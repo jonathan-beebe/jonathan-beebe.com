@@ -51,15 +51,13 @@ ul[role="list"] > li {
 }
 
 main hr {
-  border: none;
   height: 0.1em;
-  background-color: rgba(157, 117, 92, 0.8);
+  background: var(--rule-color);
 }
 
-small {
+main small {
   display: block;
   font-size: 0.8em;
-  color: var(--light-text-color);
 }
 
 strong {
