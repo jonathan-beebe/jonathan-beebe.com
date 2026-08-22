@@ -39,7 +39,6 @@ main {
   line-height: 1.6;
 }
 
-h1,
 h2,
 h3 {
   margin-bottom: 0.3em;
@@ -109,19 +108,11 @@ h1 {
   text-align: left;
 }
 
-main > h1 + small {
-  text-align: center;
-}
-
-main > h1 {
-  text-wrap: balance;
-  margin-bottom: 0.3em;
-}
-
-main > h1 + small {
-  text-wrap: balance;
-}
-
 main > h1 {
   margin-bottom: 1.3em;
+}
+
+main > h1 + small {
+  text-align: center;
+  text-wrap: balance;
 }
