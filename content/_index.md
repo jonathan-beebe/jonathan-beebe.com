@@ -1,7 +1,4 @@
 ---
-menu: 
-  main:
-    name: "Home"
 ---
 
 # Hi, I’m **Jonathan Beebe**
