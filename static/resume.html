@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Jonathan Beebe – Resume</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <meta name="description" content="Resume of Jonathan Beebe, technology leader and software engineer.">
+  <link rel="canonical" href="https://jonathan-beebe.com/resume.html">
+  <style>
+    :root {
+      --bg-color: #e8e3e1;
+      --text-color: #261913;
+      --light-text-color: #5f5f5f;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg-color: #000;
+        --text-color: #d9d4d2;
+        --light-text-color: #9a9a9a;
+      }
+    }
+
+    *,
+    *::before,
+    *::after {
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+        Arial, sans-serif;
+      background-color: var(--bg-color);
+      color: var(--text-color);
+      margin: 0;
+      padding: 3em 1.25em 4em;
+      font-size: 1rem;
+      line-height: 1.45;
+    }
+
+    main {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 14em;
+      gap: 3em;
+      max-width: 60em;
+      margin-inline: auto;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    p,
+    ul {
+      margin: 0;
+    }
+
+    h1 {
+      font-size: 2em;
+      font-weight: 700;
+      letter-spacing: -0.01em;
+      line-height: 1.15;
+    }
+
+    h1 .role {
+      font-weight: 200;
+      color: var(--light-text-color);
+    }
+
+    h1 .role::before {
+      content: "⇋ ";
+    }
+
+    h2 {
+      font-size: 1.5em;
+      font-weight: 700;
+      margin-block: 1.5em 0.5em;
+    }
+
+    aside h2:first-child {
+      margin-block-start: 0.4em;
+    }
+
+    h3 {
+      font-size: 1em;
+      font-weight: 700;
+    }
+
+    h4 {
+      font-size: 0.85em;
+      font-weight: 700;
+      margin-block-start: 1em;
+    }
+
+    h5 {
+      font-size: 1em;
+      font-weight: 400;
+      font-style: italic;
+      margin: 0.75em 0 0;
+    }
+
+    .summary {
+      margin-block-start: 0.5em;
+      text-wrap: pretty;
+    }
+
+    .entry {
+      margin-block-end: 1.25em;
+    }
+
+    .entry-body {
+      margin-block-start: 0.25em;
+      padding-inline-start: 0.75em;
+      border-inline-start: 1px solid color-mix(in srgb, var(--light-text-color) 35%, transparent);
+    }
+
+    .entry-body > :last-child,
+    .entry-body > :last-child > :last-child {
+      margin-block-end: 0;
+    }
+
+    .entry article {
+      margin-block-start: 0.75em;
+    }
+
+    .entry article h4 {
+      font-size: 1em;
+      margin-block-start: 0;
+    }
+
+    article p {
+      text-wrap: pretty;
+    }
+
+    article ul {
+      padding-inline-start: 1.25em;
+      margin-block-end: 0.25em;
+    }
+
+    .meta {
+      font-weight: 300;
+      font-style: italic;
+      color: var(--light-text-color);
+    }
+
+    a {
+      color: inherit;
+      text-underline-offset: 0.15em;
+    }
+
+    aside ul {
+      list-style: none;
+      padding: 0;
+      font-size: 0.9em;
+    }
+
+    @media (max-width: 45rem) {
+      body {
+        padding-block-start: 2em;
+      }
+
+      main {
+        grid-template-columns: minmax(0, 1fr);
+        gap: 1em;
+      }
+
+      aside {
+        columns: 2;
+        column-gap: 2em;
+      }
+
+      aside section {
+        break-inside: avoid;
+      }
+    }
+
+    @media print {
+      :root {
+        --bg-color: #fff;
+        --text-color: #000;
+        --light-text-color: #555;
+      }
+
+      @page {
+        margin: 0.5in;
+      }
+
+      body {
+        padding: 0;
+        font-size: 10pt;
+      }
+
+      main {
+        grid-template-columns: minmax(0, 1fr) 12em;
+        gap: 2em;
+      }
+
+      aside {
+        columns: auto;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <main>
+    <div>
+      <header>
+        <h1>Jonathan Beebe <span class="role">Technology Leader</span></h1>
+        <p class="summary">
+          I have 25 years as a technology leader and software engineer, emphasizing
+          rapid iteration and delivery of customer value. I thrive in a collaborative
+          environment with a team focused on delivering excellent software solving customer
+          problems. I strive to create products I love &amp; software that is a joy to maintain.
+        </p>
+      </header>
+
+      <section>
+        <h2>Projects &amp; Experience</h2>
+
+        <article class="entry">
+          <h3>Skin Clique <span class="meta">Oct 2024–Present, Principal Product Engineer</span></h3>
+          <div class="entry-body">
+            <p>
+              A Graham Holdings company. Joined full-time after six months of consulting.
+            </p>
+            <p><strong>AI-driven software development:</strong></p>
+            <ul>
+              <li>Established how the org uses AI to architect, design, build, and maintain software.</li>
+              <li>Helped triple engineering throughput, measured in commits.</li>
+              <li>Move fast and keep the gains: scoped tickets, custom skills, and plan-approval gates
+                form a repeatable workflow that improves with each project.</li>
+              <li>Orchestrate agents as a team: planning, building, and QA agents hand off work through
+                review gates, while a human holds final calls on design, feel, and release.</li>
+              <li>Design safety into the workflow: firewalled dev containers, isolated worktrees, and
+                written limits on what agents may touch.</li>
+              <li>Brought our product manager and designer into the codebase as contributors.</li>
+            </ul>
+            <p><strong>Bespoke platform:</strong> Helped migrate the company from a rented platform to
+              software built for its business model.</p>
+            <ul>
+              <li>Saved over $600k in annual licensing fees.</li>
+              <li>Improved compliance: client messaging stays on the platform, with proper e-signatures.</li>
+              <li>Built a full data pipeline for reporting.</li>
+              <li>Owning core features such as calendaring lets us test and iterate on the booking flow,
+                improving booking rate.</li>
+            </ul>
+          </div>
+        </article>
+
+        <article class="entry">
+          <h3>Technology Lead &amp; Software Consultant <span class="meta">July 2023–Sept 2024</span></h3>
+          <div class="entry-body">
+            <p>
+              <strong>Skin Clique:</strong> Created a new custom booking flow to optimize booking rate.
+              Rebuilt the server code to isolate dependencies on third-party frameworks,
+              aligning code with business goals.
+            </p>
+            <p>
+              <strong>National Scoliosis Clinic:</strong> Developed tech strategy and led creating a new
+              subscription mobile product. Helped secure seed round and hire first full-time
+              software team.
+            </p>
+          </div>
+        </article>
+
+        <section class="entry">
+          <h3>Ramsey Solutions <span class="meta">2013–2023</span></h3>
+          <div class="entry-body">
+            <p>
+              Ten years across three products, from software engineer to director, leading
+              mobile, fintech, and marketplace teams.
+            </p>
+
+            <article>
+              <h4>Ramsey Trusted <span class="meta">2023, Director of Software Engineering</span></h4>
+              <p>
+                Led technology across four cross-functional squads in a $150 million business,
+                spanning the customer marketplace and the internal tools that sales and coaching
+                teams use to acquire and retain customers. Grew a double-sided
+                marketplace connecting customers with real estate agents and tax professionals.
+                Created a mobile strategy to improve connection and engagement rate between
+                customers and professional service providers.
+              </p>
+            </article>
+
+            <article>
+              <h4>Gazelle <span class="meta">2019–2023, Director of Software Engineering</span></h4>
+              <p>
+                Led a hybrid team of up to 8 engineers building a digital banking app. Oversaw
+                design, architecture, and delivery of a serverless AWS Lambda platform written in
+                Kotlin, backed by Postgres. Built
+                Swift iOS and Kotlin Android apps, delivering features in parallel, ensuring
+                conceptual integrity across codebases. Strong emphasis on simple &amp; secure code
+                that was easy to reason about. Hired, coached, and grew the team, employing
+                SVPG product principles to iterate and deliver rapidly on the way to product
+                market fit. Shaped digital product development practices across the org. Trained
+                and coached engineers to effectively partner with business and peer disciplines.
+              </p>
+            </article>
+
+            <article>
+              <h4>EveryDollar <span class="meta">2015–2018, Assoc. Dir of Software Eng, 2013–2014, Software Eng</span></h4>
+              <p>
+                Helped launch EveryDollar as Ramsey Solutions’ first subscription product,
+                introducing React on the web and architecting the native iOS and Android apps.
+                Led the design and development of a mobile budgeting app. Helped grow the
+                business to over 7 million subscribers and millions in annual recurring
+                subscription revenue. Shaped the company’s mobile strategy including a pivot to
+                mobile-first design. Led the iOS migration from Objective-C to Swift, starting
+                with Swift 2.0. Heavily influenced the app user experience, development
+                processes, testing strategy, continuous deployment strategy, and process
+                improvements including adopting and refining the use of kanban methodology.
+                Helped hire, mentor, and retain top engineering talent.
+              </p>
+            </article>
+          </div>
+        </section>
+
+        <article class="entry">
+          <h3>Agency Work <span class="meta">2010–2013</span></h3>
+          <div class="entry-body">
+            <p>
+              Helped two startups go from zero to $1 million in annual revenue. Full-stack
+              engineer (JavaScript, PHP, MySQL, Apache, Linux) and native iOS mobile
+              engineer, designing systems, databases, apis, and user interfaces. The range of
+              work included web apps for the backend operations of businesses (e.g. inventory
+              management), a voice-controlled music player for iOS, custom video editor
+              plugins for Final Cut Pro X, and a realtime engine for an auction-based business
+              to drive online bidding.
+            </p>
+          </div>
+        </article>
+      </section>
+    </div>
+
+    <aside>
+      <section>
+        <h2>Contact</h2>
+        <ul>
+          <li><a href="https://www.linkedin.com/in/---jonathan-beebe---">LinkedIn</a></li>
+          <li><a href="https://github.com/jonathan-beebe">GitHub</a></li>
+          <li><a href="https://jonathan-beebe.com/">Personal Website</a></li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>Skills</h2>
+
+        <h4>AI-augmented workflows</h4>
+        <ul>
+          <li>Spec-driven development</li>
+          <li>Enabling non-engineers</li>
+          <li>Workflow engineering</li>
+          <li>Leading AI adoption</li>
+          <li>Context engineering</li>
+          <li>Agent orchestration</li>
+          <li>Automated QA</li>
+          <li>Custom skills</li>
+        </ul>
+
+        <h4>Server</h4>
+        <ul>
+          <li>Cloud architecture</li>
+          <li>Serverless</li>
+          <li>Supabase</li>
+          <li>AWS</li>
+        </ul>
+
+        <h4>Client</h4>
+        <h5>Mobile</h5>
+        <ul>
+          <li>iOS</li>
+          <li>Swift</li>
+          <li>Obj-C</li>
+          <li>TypeScript</li>
+          <li>React Native</li>
+        </ul>
+        <h5>Web</h5>
+        <ul>
+          <li>React</li>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JavaScript</li>
+        </ul>
+
+        <h4>Software</h4>
+        <ul>
+          <li>Architecture &amp; design</li>
+          <li>Test driven development</li>
+          <li>MySQL/Postgres/SQL</li>
+          <li>CI/CD</li>
+        </ul>
+
+        <h4>Leadership</h4>
+        <ul>
+          <li>Hiring &amp; growing team</li>
+          <li>Retaining talent</li>
+          <li>Knowledge management</li>
+          <li>Coaching &amp; mentoring</li>
+          <li>Writing</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>Disposition</h2>
+        <ul>
+          <li>Collaborative</li>
+          <li>Introverted</li>
+          <li>Passionate</li>
+          <li>Consistent</li>
+          <li>Organized</li>
+          <li>Nurturing</li>
+          <li>Creative</li>
+          <li>Centrist</li>
+          <li>Curious</li>
+          <li>Diligent</li>
+          <li>Thinker</li>
+        </ul>
+      </section>
+    </aside>
+  </main>
+</body>
+
+</html>
